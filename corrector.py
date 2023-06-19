@@ -18,7 +18,7 @@ from tqdm import tqdm
 
 class CarBrandManager():
     def load(self):
-        df = pd.read_csv("/Users/skabbit/Desktop/vehicle-prod.csv", encoding="cp1251")
+        df = pd.read_csv(PATH_TO_FILE / "vehicle-prod.csv", encoding="cp1251")
         df = df.set_index('id')
         self.brands = df.to_dict(orient="index")
    
@@ -263,7 +263,7 @@ class CarBrandCorrector:
 
 
 CarBrand.objects.load()
-corrector = CarBrandCorrector(path=PATH_TO_FILE / ("config/stable/"), split_text=False)
-print(corrector.detect_model("ваз 2107"))
 
-# https://colab.research.google.com/drive/182tk9DERq76QcDxd2a5BS48ZrlGcufwY
+if __name__ == "__main__":
+    corrector = CarBrandCorrector(path=PATH_TO_FILE / "config" / "stable", split_text=False)
+    print(corrector.detect_model("ваз 2107"))
