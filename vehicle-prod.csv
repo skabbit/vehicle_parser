@@ -1,0 +1,2069 @@
+"id","parent_id","name","fullname","parent_name","name_ru","name_en"
+1,NULL,"Microcar","","","Microcar",NULL
+2,NULL,"AC","","","AC",NULL
+3,NULL,"Acura","","","Acura",NULL
+4,NULL,"Admiral","","","Admiral",NULL
+5,NULL,"Alfa Romeo","","","Alfa Romeo",NULL
+6,NULL,"Alpina","","","Alpina",NULL
+7,NULL,"Aro","","","Aro",NULL
+8,NULL,"Asia","","","Asia",NULL
+9,NULL,"Aston Martin","","","Aston Martin",NULL
+10,NULL,"Audi","","","Audi",NULL
+11,NULL,"BMW","","","BMW",NULL
+12,NULL,"BYD","","","BYD",NULL
+13,NULL,"Bentley","","","Bentley",NULL
+14,NULL,"Brilliance","","","Brilliance",NULL
+15,NULL,"Bugatti","","","Bugatti",NULL
+16,NULL,"Buick","","","Buick",NULL
+17,NULL,"Cadillac","","","Cadillac",NULL
+18,NULL,"Caterham","","","Caterham",NULL
+19,NULL,"ChangFeng","","","ChangFeng",NULL
+20,NULL,"Chery","","","Chery",NULL
+21,NULL,"Chevrolet","","","Chevrolet",NULL
+22,NULL,"Chrysler","","","Chrysler",NULL
+23,NULL,"Citroen","","","Citroen",NULL
+24,NULL,"DADI","","","DADI",NULL
+25,NULL,"Dacia","","","Dacia",NULL
+26,NULL,"Daewoo","","","Daewoo",NULL
+27,NULL,"Daihatsu","","","Daihatsu",NULL
+28,NULL,"Daimler","","","Daimler",NULL
+29,NULL,"De Tomaso","","","De Tomaso",NULL
+30,NULL,"Derways","","","Derways",NULL
+31,NULL,"Dodge","","","Dodge",NULL
+32,NULL,"Doninvest","","","Doninvest",NULL
+33,NULL,"Donkervoort","","","Donkervoort",NULL
+34,NULL,"Eagle","","","Eagle",NULL
+35,NULL,"FAW","","","FAW",NULL
+36,NULL,"FSO","","","FSO",NULL
+37,NULL,"FSR","","","FSR",NULL
+38,NULL,"Ferrari","","","Ferrari",NULL
+39,NULL,"Fiat","","","Fiat",NULL
+40,NULL,"Ford","","","Ford",NULL
+41,NULL,"GMC","","","GMC",NULL
+42,NULL,"Geely","","","Geely",NULL
+43,NULL,"Geo","","","Geo",NULL
+44,NULL,"Ginetta","","","Ginetta",NULL
+45,NULL,"Gonow","","","Gonow",NULL
+46,NULL,"Great Wall","","","Great Wall",NULL
+47,NULL,"Hafei","","","Hafei",NULL
+48,NULL,"Holden","","","Holden",NULL
+49,NULL,"Honda","","","Honda",NULL
+50,NULL,"Huanghai","","","Huanghai",NULL
+51,NULL,"Hummer","","","Hummer",NULL
+52,NULL,"Hyundai","","","Hyundai",NULL
+53,NULL,"Infiniti","","","Infiniti",NULL
+54,NULL,"Intrall","","","Intrall",NULL
+55,NULL,"Iran Khodro","","","Iran Khodro",NULL
+56,NULL,"Isuzu","","","Isuzu",NULL
+57,NULL,"JMC","","","JMC",NULL
+58,NULL,"Jaguar","","","Jaguar",NULL
+59,NULL,"Jeep","","","Jeep",NULL
+60,NULL,"Jindei","","","Jindei",NULL
+61,NULL,"Kia","","","Kia",NULL
+62,NULL,"Lamborghini","","","Lamborghini",NULL
+63,NULL,"Lancia","","","Lancia",NULL
+64,NULL,"Land Rover","","","Land Rover",NULL
+65,NULL,"Landwind","","","Landwind",NULL
+66,NULL,"Lexus","","","Lexus",NULL
+67,NULL,"Lifan","","","Lifan",NULL
+68,NULL,"Lincoln","","","Lincoln",NULL
+69,NULL,"Lotus","","","Lotus",NULL
+70,NULL,"MG","","","MG",NULL
+71,NULL,"MINI","","","MINI",NULL
+72,NULL,"Mahindra","","","Mahindra",NULL
+73,NULL,"Marcos","","","Marcos",NULL
+74,NULL,"Maruti","","","Maruti",NULL
+75,NULL,"Maserati","","","Maserati",NULL
+76,NULL,"Maybach","","","Maybach",NULL
+77,NULL,"Mazda","","","Mazda",NULL
+78,NULL,"McLaren","","","McLaren",NULL
+79,NULL,"Mercedes-Benz","","","Mercedes-Benz",NULL
+80,NULL,"Mercury","","","Mercury",NULL
+81,NULL,"Metrocab","","","Metrocab",NULL
+82,NULL,"Mitsubishi","","","Mitsubishi",NULL
+83,NULL,"Mitsuoka","","","Mitsuoka",NULL
+84,NULL,"Morgan","","","Morgan",NULL
+85,NULL,"Nissan","","","Nissan",NULL
+86,NULL,"Oldsmobile","","","Oldsmobile",NULL
+87,NULL,"Opel","","","Opel",NULL
+88,NULL,"Steyr-Daimler-Puch","","","Steyr-Daimler-Puch",NULL
+89,NULL,"Pagani","","","Pagani",NULL
+90,NULL,"Panoz","","","Panoz",NULL
+91,NULL,"Peugeot","","","Peugeot",NULL
+92,NULL,"Plymouth","","","Plymouth",NULL
+93,NULL,"Pontiac","","","Pontiac",NULL
+94,NULL,"Porsche","","","Porsche",NULL
+95,NULL,"Proton","","","Proton",NULL
+96,NULL,"Renault","","","Renault",NULL
+97,NULL,"Roewe","","","Roewe",NULL
+98,NULL,"Rolls-Royce","","","Rolls-Royce",NULL
+99,NULL,"Rover","","","Rover",NULL
+100,NULL,"SEAT","","","SEAT",NULL
+101,NULL,"Saab","","","Saab",NULL
+102,NULL,"Saleen","","","Saleen",NULL
+103,NULL,"Samsung","","","Samsung",NULL
+104,NULL,"Saturn","","","Saturn",NULL
+105,NULL,"Scion","","","Scion",NULL
+106,NULL,"Shenlong","","","Shenlong",NULL
+107,NULL,"Shuanghuan","","","Shuanghuan",NULL
+108,NULL,"Skoda","","","Skoda",NULL
+109,NULL,"Smart","","","Smart",NULL
+110,NULL,"Spyker","","","Spyker",NULL
+111,NULL,"SsangYong","","","SsangYong",NULL
+112,NULL,"Subaru","","","Subaru",NULL
+113,NULL,"Suzuki","","","Suzuki",NULL
+114,NULL,"TVR","","","TVR",NULL
+115,NULL,"Talbot","","","Talbot",NULL
+116,NULL,"Tata","","","Tata",NULL
+117,NULL,"Tatra","","","Tatra",NULL
+118,NULL,"Tianma","","","Tianma",NULL
+119,NULL,"Tianye","","","Tianye",NULL
+120,NULL,"Tofas","","","Tofas",NULL
+121,NULL,"Toyota","","","Toyota",NULL
+122,NULL,"Trabant","","","Trabant",NULL
+123,NULL,"Venturi","","","Venturi",NULL
+124,NULL,"Volkswagen","","","Volkswagen",NULL
+125,NULL,"Volvo","","","Volvo",NULL
+126,NULL,"Vortex","","","Vortex",NULL
+127,NULL,"Wartburg","","","Wartburg",NULL
+128,NULL,"Wiesmann","","","Wiesmann",NULL
+129,NULL,"Xin Kai","","","Xin Kai",NULL
+130,NULL,"Yzk","","","Yzk",NULL
+131,NULL,"ZX","","","ZX",NULL
+132,NULL,"¬¿«","","","¬¿«",NULL
+133,NULL,"¬ÂÎÚ‡","","","¬ÂÎÚ‡",NULL
+134,NULL,"√¿«","","","√¿«",NULL
+135,NULL,"≈–¿«","","","≈–¿«",NULL
+136,NULL,"—Â¿«","","","—Â¿«",NULL
+137,NULL," ¿Ã¿«","",""," ¿Ã¿«",NULL
+138,NULL,"«¿«","","","«¿«",NULL
+139,NULL,"«»À","","","«»À",NULL
+140,NULL,"»∆","","","»∆",NULL
+141,NULL,"À”¿«","","","À”¿«",NULL
+142,NULL,"ÃÓÒÍ‚Ë˜","","","ÃÓÒÍ‚Ë˜",NULL
+143,NULL,"”¿«","","","”¿«",NULL
+144,1,"MC 1","","Microcar","MC 1",NULL
+145,2,"Ace","","AC","Ace",NULL
+146,2,"Aceca","","AC","Aceca",NULL
+147,2,"Cobra","","AC","Cobra",NULL
+148,2,"Mamba","","AC","Mamba",NULL
+149,3,"CL","","Acura","CL",NULL
+150,3,"CSX","","Acura","CSX",NULL
+151,3,"EL","","Acura","EL",NULL
+152,3,"Integra","","Acura","Integra",NULL
+153,3,"Legend","","Acura","Legend",NULL
+154,3,"MDX","","Acura","MDX",NULL
+155,3,"NSX","","Acura","NSX",NULL
+156,3,"RDX","","Acura","RDX",NULL
+157,3,"RL","","Acura","RL",NULL
+158,3,"RSX","","Acura","RSX",NULL
+159,3,"SLX","","Acura","SLX",NULL
+160,3,"TL","","Acura","TL",NULL
+161,3,"TSX","","Acura","TSX",NULL
+162,4,"Pickup","","Admiral","Pickup",NULL
+163,5,"145","","Alfa Romeo","145",NULL
+164,5,"146","","Alfa Romeo","146",NULL
+165,5,"147","","Alfa Romeo","147",NULL
+166,5,"155","","Alfa Romeo","155",NULL
+167,5,"156","","Alfa Romeo","156",NULL
+168,5,"159","","Alfa Romeo","159",NULL
+169,5,"164","","Alfa Romeo","164",NULL
+170,5,"166","","Alfa Romeo","166",NULL
+171,5,"33","","Alfa Romeo","33",NULL
+172,5,"75","","Alfa Romeo","75",NULL
+173,5,"8C Competizione","","Alfa Romeo","8C Competizione",NULL
+174,5,"90","","Alfa Romeo","90",NULL
+175,5,"Alfasud","","Alfa Romeo","Alfasud",NULL
+176,5,"Alfetta","","Alfa Romeo","Alfetta",NULL
+177,5,"Brera","","Alfa Romeo","Brera",NULL
+178,5,"GT","","Alfa Romeo","GT",NULL
+179,5,"GTV","","Alfa Romeo","GTV",NULL
+180,5,"Giulietta","","Alfa Romeo","Giulietta",NULL
+181,5,"MiTo","","Alfa Romeo","MiTo",NULL
+182,5,"Spider","","Alfa Romeo","Spider",NULL
+183,6,"B10","","Alpina","B10",NULL
+184,6,"B12","","Alpina","B12",NULL
+185,6,"B3","","Alpina","B3",NULL
+186,6,"B7","","Alpina","B7",NULL
+187,6,"B8","","Alpina","B8",NULL
+188,6,"D10","","Alpina","D10",NULL
+189,6,"Roadster S","","Alpina","Roadster S",NULL
+190,7,"10","","Aro","10",NULL
+191,7,"24","","Aro","24",NULL
+192,7,"243","","Aro","243",NULL
+193,7,"244","","Aro","244",NULL
+194,7,"245","","Aro","245",NULL
+195,7,"246","","Aro","246",NULL
+196,7,"Spartana","","Aro","Spartana",NULL
+197,8,"Hi-Topic","","Asia","Hi-Topic",NULL
+198,8,"Retona","","Asia","Retona",NULL
+199,8,"Rocsta","","Asia","Rocsta",NULL
+200,9,"DB7","","Aston Martin","DB7",NULL
+201,9,"DB9","","Aston Martin","DB9",NULL
+202,9,"DBS","","Aston Martin","DBS",NULL
+203,9,"V12 Vanquish","","Aston Martin","V12 Vanquish",NULL
+204,9,"V8 Vantage","","Aston Martin","V8 Vantage",NULL
+205,10,"100","","Audi","100",NULL
+206,10,"200","","Audi","200",NULL
+207,10,"5000","","Audi","5000",NULL
+208,10,"80","","Audi","80",NULL
+209,10,"90","","Audi","90",NULL
+210,10,"A2","","Audi","A2",NULL
+211,10,"A3","","Audi","A3",NULL
+212,10,"A4","","Audi","A4",NULL
+213,10,"A5","","Audi","A5",NULL
+214,10,"A6","","Audi","A6",NULL
+215,10,"A6 allroad quattro","","Audi","A6 allroad quattro",NULL
+216,10,"A8","","Audi","A8",NULL
+217,10,"Cabriolet","","Audi","Cabriolet",NULL
+218,10,"Q5","","Audi","Q5",NULL
+219,10,"Q7","","Audi","Q7",NULL
+220,10,"R8","","Audi","R8",NULL
+221,10,"RS4","","Audi","RS4",NULL
+222,10,"RS6","","Audi","RS6",NULL
+223,10,"S2","","Audi","S2",NULL
+224,10,"S3","","Audi","S3",NULL
+225,10,"S4","","Audi","S4",NULL
+226,10,"S5","","Audi","S5",NULL
+227,10,"S6","","Audi","S6",NULL
+228,10,"S8","","Audi","S8",NULL
+229,10,"TT","","Audi","TT",NULL
+230,10,"V8","","Audi","V8",NULL
+231,11,"1 series","","BMW","1 series",NULL
+232,11,"3 series","","BMW","3 series",NULL
+233,11,"5 series","","BMW","5 series",NULL
+234,11,"6 series","","BMW","6 series",NULL
+235,11,"7 series","","BMW","7 series",NULL
+236,11,"8 series","","BMW","8 series",NULL
+237,11,"M3","","BMW","M3",NULL
+238,11,"M5","","BMW","M5",NULL
+239,11,"M6","","BMW","M6",NULL
+240,11,"X3","","BMW","X3",NULL
+241,11,"X5","","BMW","X5",NULL
+242,11,"X6","","BMW","X6",NULL
+243,11,"Z1","","BMW","Z1",NULL
+244,11,"Z3","","BMW","Z3",NULL
+245,11,"Z4","","BMW","Z4",NULL
+246,11,"Z4 M","","BMW","Z4 M",NULL
+247,11,"Z8","","BMW","Z8",NULL
+248,12,"F0","","BYD","F0",NULL
+249,12,"F3","","BYD","F3",NULL
+250,12,"F6","","BYD","F6",NULL
+251,12,"F6","","BYD","F6",NULL
+252,12,"Flyer","","BYD","Flyer",NULL
+253,13,"Arnage","","Bentley","Arnage",NULL
+254,13,"Azure","","Bentley","Azure",NULL
+255,13,"Brooklands","","Bentley","Brooklands",NULL
+256,13,"Continental","","Bentley","Continental",NULL
+257,13,"Continental Flying Spur","","Bentley","Continental Flying Spur",NULL
+258,13,"Continental GT","","Bentley","Continental GT",NULL
+259,13,"Mulsanne","","Bentley","Mulsanne",NULL
+260,13,"Turbo RT","","Bentley","Turbo RT",NULL
+261,14,"M1 (Zhonghua)","","Brilliance","M1 (Zhonghua)",NULL
+262,14,"M2 (JunJie)","","Brilliance","M2 (JunJie)",NULL
+264,15,"EB 110","","Bugatti","EB 110",NULL
+265,15,"EB 112","","Bugatti","EB 112",NULL
+266,15,"Veyron 16.4","","Bugatti","Veyron 16.4",NULL
+267,16,"Century","","Buick","Century",NULL
+268,16,"Electra","","Buick","Electra",NULL
+269,16,"Enclave","","Buick","Enclave",NULL
+270,16,"GL8","","Buick","GL8",NULL
+271,16,"La Crosse","","Buick","La Crosse",NULL
+272,16,"Le Sabre","","Buick","Le Sabre",NULL
+273,16,"Lucerne","","Buick","Lucerne",NULL
+274,16,"Park Avenue","","Buick","Park Avenue",NULL
+275,16,"Rainer","","Buick","Rainer",NULL
+276,16,"Regal","","Buick","Regal",NULL
+277,16,"RendezVous","","Buick","RendezVous",NULL
+278,16,"Riviera","","Buick","Riviera",NULL
+279,16,"Roadmaster","","Buick","Roadmaster",NULL
+280,16,"Skylark","","Buick","Skylark",NULL
+281,16,"Terraza","","Buick","Terraza",NULL
+282,17,"BLS","","Cadillac","BLS",NULL
+283,17,"CTS","","Cadillac","CTS",NULL
+284,17,"Catera","","Cadillac","Catera",NULL
+285,17,"DTS","","Cadillac","DTS",NULL
+286,17,"De Ville","","Cadillac","De Ville",NULL
+287,17,"Eldorado","","Cadillac","Eldorado",NULL
+288,17,"Escalade","","Cadillac","Escalade",NULL
+289,17,"Fleetwood","","Cadillac","Fleetwood",NULL
+290,17,"SRX","","Cadillac","SRX",NULL
+291,17,"STS","","Cadillac","STS",NULL
+292,17,"Seville","","Cadillac","Seville",NULL
+293,17,"XLR","","Cadillac","XLR",NULL
+294,18,"C21","","Caterham","C21",NULL
+295,18,"Super Seven","","Caterham","Super Seven",NULL
+296,19,"Flying","","ChangFeng","Flying",NULL
+297,19,"SUV","","ChangFeng","SUV",NULL
+298,20,"Amulet","","Chery","Amulet",NULL
+299,20,"B11 (Oriental Son)","","Chery","B11 (Oriental Son)",NULL
+300,20,"B14","","Chery","B14",NULL
+301,20,"Eastar","","Chery","Eastar",NULL
+302,20,"Fora","","Chery","Fora",NULL
+303,20,"Kimo","","Chery","Kimo",NULL
+304,20,"QQ","","Chery","QQ",NULL
+305,20,"QQ 6","","Chery","QQ 6",NULL
+306,20,"Swift","","Chery","Swift",NULL
+307,20,"Tiggo","","Chery","Tiggo",NULL
+308,20,"Windcloud","","Chery","Windcloud",NULL
+309,21,"Alero","","Chevrolet","Alero",NULL
+310,21,"Astro","","Chevrolet","Astro",NULL
+311,21,"Avalanche","","Chevrolet","Avalanche",NULL
+312,21,"Aveo","","Chevrolet","Aveo",NULL
+313,21,"Beretta","","Chevrolet","Beretta",NULL
+314,21,"Blazer","","Chevrolet","Blazer",NULL
+315,21,"Camaro","","Chevrolet","Camaro",NULL
+316,21,"Caprice","","Chevrolet","Caprice",NULL
+317,21,"Captiva","","Chevrolet","Captiva",NULL
+318,21,"Cavalier","","Chevrolet","Cavalier",NULL
+319,21,"Celta","","Chevrolet","Celta",NULL
+320,21,"Chevi C2","","Chevrolet","Chevi C2",NULL
+321,21,"Classic","","Chevrolet","Classic",NULL
+322,21,"Cobalt","","Chevrolet","Cobalt",NULL
+323,21,"Colorado","","Chevrolet","Colorado",NULL
+324,21,"Conversion Van","","Chevrolet","Conversion Van",NULL
+325,21,"Corsa","","Chevrolet","Corsa",NULL
+326,21,"Corsica","","Chevrolet","Corsica",NULL
+327,21,"Corvette","","Chevrolet","Corvette",NULL
+328,21,"Cruze","","Chevrolet","Cruze",NULL
+329,21,"Epica","","Chevrolet","Epica",NULL
+330,21,"Equinox","","Chevrolet","Equinox",NULL
+331,21,"Evanda","","Chevrolet","Evanda",NULL
+332,21,"Express","","Chevrolet","Express",NULL
+333,21,"Geo Storm","","Chevrolet","Geo Storm",NULL
+334,21,"Geo Tracker","","Chevrolet","Geo Tracker",NULL
+335,21,"HHR","","Chevrolet","HHR",NULL
+336,21,"Impala","","Chevrolet","Impala",NULL
+337,21,"Ipanema","","Chevrolet","Ipanema",NULL
+338,21,"K3500","","Chevrolet","K3500",NULL
+339,21,"Lacetti","","Chevrolet","Lacetti",NULL
+340,21,"Lanos","","Chevrolet","Lanos",NULL
+341,21,"Lumina","","Chevrolet","Lumina",NULL
+342,21,"Malibu","","Chevrolet","Malibu",NULL
+343,21,"Meriva","","Chevrolet","Meriva",NULL
+344,21,"Metro","","Chevrolet","Metro",NULL
+345,21,"Montana","","Chevrolet","Montana",NULL
+346,21,"Monte Carlo","","Chevrolet","Monte Carlo",NULL
+347,21,"Monza","","Chevrolet","Monza",NULL
+348,21,"Niva","","Chevrolet","Niva",NULL
+349,21,"Nova","","Chevrolet","Nova",NULL
+350,21,"Omega","","Chevrolet","Omega",NULL
+351,21,"Prizm","","Chevrolet","Prizm",NULL
+352,21,"Prizma","","Chevrolet","Prizma",NULL
+353,21,"Rezzo","","Chevrolet","Rezzo",NULL
+354,21,"S-10","","Chevrolet","S-10",NULL
+355,21,"SSR","","Chevrolet","SSR",NULL
+356,21,"Savana","","Chevrolet","Savana",NULL
+357,21,"Silver","","Chevrolet","Silver",NULL
+358,21,"Silverado","","Chevrolet","Silverado",NULL
+359,21,"Spark","","Chevrolet","Spark",NULL
+360,21,"Starcraft","","Chevrolet","Starcraft",NULL
+361,21,"Suburban","","Chevrolet","Suburban",NULL
+362,21,"Tahoe","","Chevrolet","Tahoe",NULL
+363,21,"Tracker","","Chevrolet","Tracker",NULL
+364,21,"TrailBlazer","","Chevrolet","TrailBlazer",NULL
+365,21,"TransSport","","Chevrolet","TransSport",NULL
+366,21,"Uplander","","Chevrolet","Uplander",NULL
+367,21,"Van","","Chevrolet","Van",NULL
+368,21,"Vectra","","Chevrolet","Vectra",NULL
+369,21,"Venture","","Chevrolet","Venture",NULL
+370,21,"Viva","","Chevrolet","Viva",NULL
+371,21,"Zafira","","Chevrolet","Zafira",NULL
+372,22,"300C","","Chrysler","300C",NULL
+373,22,"300M","","Chrysler","300M",NULL
+374,22,"Aspen","","Chrysler","Aspen",NULL
+375,22,"Cirrus","","Chrysler","Cirrus",NULL
+376,22,"Concorde","","Chrysler","Concorde",NULL
+377,22,"Crossfire","","Chrysler","Crossfire",NULL
+378,22,"Daytona","","Chrysler","Daytona",NULL
+379,22,"Grand Voyager","","Chrysler","Grand Voyager",NULL
+380,22,"Intrepid","","Chrysler","Intrepid",NULL
+381,22,"LHS","","Chrysler","LHS",NULL
+382,22,"Le Baron","","Chrysler","Le Baron",NULL
+383,22,"Neon","","Chrysler","Neon",NULL
+384,22,"New Yorker","","Chrysler","New Yorker",NULL
+385,22,"PT Cruiser","","Chrysler","PT Cruiser",NULL
+386,22,"Pacifica","","Chrysler","Pacifica",NULL
+387,22,"Prowler","","Chrysler","Prowler",NULL
+388,22,"Saratoga","","Chrysler","Saratoga",NULL
+389,22,"Sebring","","Chrysler","Sebring",NULL
+390,22,"Stratus","","Chrysler","Stratus",NULL
+391,22,"Town&amp;Country","","Chrysler","Town&amp;Country",NULL
+392,22,"Viper","","Chrysler","Viper",NULL
+393,22,"Vision","","Chrysler","Vision",NULL
+394,22,"Voyager","","Chrysler","Voyager",NULL
+395,23,"AX","","Citroen","AX",NULL
+396,23,"BX","","Citroen","BX",NULL
+397,23,"Berlingo","","Citroen","Berlingo",NULL
+398,23,"C-Crosser","","Citroen","C-Crosser",NULL
+399,23,"C-Triomphe","","Citroen","C-Triomphe",NULL
+400,23,"C1","","Citroen","C1",NULL
+401,23,"C15","","Citroen","C15",NULL
+402,23,"C2","","Citroen","C2",NULL
+403,23,"C3","","Citroen","C3",NULL
+404,23,"C3 Pluriel","","Citroen","C3 Pluriel",NULL
+405,23,"C4","","Citroen","C4",NULL
+406,23,"C4 Picasso","","Citroen","C4 Picasso",NULL
+407,23,"C5","","Citroen","C5",NULL
+408,23,"C6","","Citroen","C6",NULL
+409,23,"C8","","Citroen","C8",NULL
+410,23,"CX","","Citroen","CX",NULL
+411,23,"Evasion","","Citroen","Evasion",NULL
+412,23,"Grand C4 Picasso","","Citroen","Grand C4 Picasso",NULL
+413,23,"Jumper","","Citroen","Jumper",NULL
+414,23,"Jumpy","","Citroen","Jumpy",NULL
+415,23,"Saxo","","Citroen","Saxo",NULL
+416,23,"Visa","","Citroen","Visa",NULL
+417,23,"XM","","Citroen","XM",NULL
+418,23,"Xantia","","Citroen","Xantia",NULL
+419,23,"Xsara","","Citroen","Xsara",NULL
+420,23,"Xsara Picasso","","Citroen","Xsara Picasso",NULL
+421,23,"ZX","","Citroen","ZX",NULL
+422,24,"City Leading","","DADI","City Leading",NULL
+423,24,"Shuttle","","DADI","Shuttle",NULL
+424,24,"Smoothing","","DADI","Smoothing",NULL
+425,25,"1304","","Dacia","1304",NULL
+426,25,"1310","","Dacia","1310",NULL
+427,25,"1325","","Dacia","1325",NULL
+428,25,"1410","","Dacia","1410",NULL
+429,25,"Logan","","Dacia","Logan",NULL
+430,25,"Nova","","Dacia","Nova",NULL
+431,26,"Arcadia","","Daewoo","Arcadia",NULL
+432,26,"Brougham","","Daewoo","Brougham",NULL
+433,26,"Chairman","","Daewoo","Chairman",NULL
+434,26,"Damas","","Daewoo","Damas",NULL
+435,26,"Espero","","Daewoo","Espero",NULL
+436,26,"Evanda","","Daewoo","Evanda",NULL
+437,26,"GX2","","Daewoo","GX2",NULL
+438,26,"Gentra","","Daewoo","Gentra",NULL
+439,26,"Istana","","Daewoo","Istana",NULL
+440,26,"Kalos","","Daewoo","Kalos",NULL
+441,26,"Korando","","Daewoo","Korando",NULL
+442,26,"Labo","","Daewoo","Labo",NULL
+443,26,"Lacetti","","Daewoo","Lacetti",NULL
+444,26,"Lanos","","Daewoo","Lanos",NULL
+445,26,"Leganza","","Daewoo","Leganza",NULL
+446,26,"Lemans","","Daewoo","Lemans",NULL
+447,26,"Magnus","","Daewoo","Magnus",NULL
+448,26,"Matiz","","Daewoo","Matiz",NULL
+449,26,"Musso","","Daewoo","Musso",NULL
+450,26,"Nexia","","Daewoo","Nexia",NULL
+451,26,"Nubira","","Daewoo","Nubira",NULL
+452,26,"Polonez","","Daewoo","Polonez",NULL
+453,26,"Prince","","Daewoo","Prince",NULL
+454,26,"Racer","","Daewoo","Racer",NULL
+455,26,"Rezzo","","Daewoo","Rezzo",NULL
+456,26,"Statesman","","Daewoo","Statesman",NULL
+457,26,"Super Salon","","Daewoo","Super Salon",NULL
+458,26,"Tacuma","","Daewoo","Tacuma",NULL
+459,26,"Tico","","Daewoo","Tico",NULL
+460,26,"Tosca","","Daewoo","Tosca",NULL
+461,26,"Windstorm","","Daewoo","Windstorm",NULL
+462,27,"Altis","","Daihatsu","Altis",NULL
+463,27,"Applause","","Daihatsu","Applause",NULL
+464,27,"Atrai","","Daihatsu","Atrai",NULL
+465,27,"Be-go","","Daihatsu","Be-go",NULL
+466,27,"Boon","","Daihatsu","Boon",NULL
+467,27,"Charade","","Daihatsu","Charade",NULL
+468,27,"Coo","","Daihatsu","Coo",NULL
+469,27,"Copen","","Daihatsu","Copen",NULL
+470,27,"Cuore","","Daihatsu","Cuore",NULL
+471,27,"Esse","","Daihatsu","Esse",NULL
+472,27,"Extol","","Daihatsu","Extol",NULL
+473,27,"Feroza","","Daihatsu","Feroza",NULL
+474,27,"Gran Move","","Daihatsu","Gran Move",NULL
+475,27,"Hi Jet","","Daihatsu","Hi Jet",NULL
+476,27,"Materia","","Daihatsu","Materia",NULL
+477,27,"Max","","Daihatsu","Max",NULL
+478,27,"Mira","","Daihatsu","Mira",NULL
+479,27,"Mobe","","Daihatsu","Mobe",NULL
+480,27,"Move","","Daihatsu","Move",NULL
+481,27,"Naked","","Daihatsu","Naked",NULL
+482,27,"Opti","","Daihatsu","Opti",NULL
+483,27,"Pizar","","Daihatsu","Pizar",NULL
+484,27,"Rocky","","Daihatsu","Rocky",NULL
+485,27,"Sirion","","Daihatsu","Sirion",NULL
+486,27,"Sonica","","Daihatsu","Sonica",NULL
+487,27,"Storia","","Daihatsu","Storia",NULL
+488,27,"Tanto","","Daihatsu","Tanto",NULL
+489,27,"Taruna","","Daihatsu","Taruna",NULL
+490,27,"Terios","","Daihatsu","Terios",NULL
+491,27,"Trevis","","Daihatsu","Trevis",NULL
+492,27,"Xenia","","Daihatsu","Xenia",NULL
+493,27,"YRV","","Daihatsu","YRV",NULL
+494,27,"Zebra","","Daihatsu","Zebra",NULL
+495,28,"Limousine","","Daimler","Limousine",NULL
+496,28,"XJ","","Daimler","XJ",NULL
+497,29,"Guara","","De Tomaso","Guara",NULL
+498,29,"Pantera","","De Tomaso","Pantera",NULL
+499,30,"Antelope","","Derways","Antelope",NULL
+500,30,"Aurora","","Derways","Aurora",NULL
+501,30,"Cowboy","","Derways","Cowboy",NULL
+502,30,"DADI Shuttle","","Derways","DADI Shuttle",NULL
+503,30,"Land Crown","","Derways","Land Crown",NULL
+504,30,"Plutus","","Derways","Plutus",NULL
+505,30,"Saladin","","Derways","Saladin",NULL
+506,30,"Shuttle","","Derways","Shuttle",NULL
+507,31,"600","","Dodge","600",NULL
+508,31,"Avenger","","Dodge","Avenger",NULL
+509,31,"Caliber","","Dodge","Caliber",NULL
+510,31,"Caravan","","Dodge","Caravan",NULL
+511,31,"Charger","","Dodge","Charger",NULL
+512,31,"Dakota","","Dodge","Dakota",NULL
+513,31,"Daytona","","Dodge","Daytona",NULL
+514,31,"Durango","","Dodge","Durango",NULL
+515,31,"Dynasty","","Dodge","Dynasty",NULL
+516,31,"Grand Caravan","","Dodge","Grand Caravan",NULL
+517,31,"Intrepid","","Dodge","Intrepid",NULL
+518,31,"Journey","","Dodge","Journey",NULL
+519,31,"Magnum","","Dodge","Magnum",NULL
+520,31,"Monaco","","Dodge","Monaco",NULL
+521,31,"Neon","","Dodge","Neon",NULL
+522,31,"Nitro","","Dodge","Nitro",NULL
+523,31,"Omni","","Dodge","Omni",NULL
+524,31,"Ram","","Dodge","Ram",NULL
+525,31,"Shadow","","Dodge","Shadow",NULL
+526,31,"Spirit","","Dodge","Spirit",NULL
+527,31,"Stealth","","Dodge","Stealth",NULL
+528,31,"Stratus","","Dodge","Stratus",NULL
+529,31,"Viper","","Dodge","Viper",NULL
+530,32,"Assol","","Doninvest","Assol",NULL
+531,32,"Kondor","","Doninvest","Kondor",NULL
+532,32,"Orion","","Doninvest","Orion",NULL
+533,33,"D8","","Donkervoort","D8",NULL
+534,34,"Summit","","Eagle","Summit",NULL
+535,34,"Talon","","Eagle","Talon",NULL
+536,34,"Vision","","Eagle","Vision",NULL
+537,35,"Admiral","","FAW","Admiral",NULL
+538,35,"Besturn","","FAW","Besturn",NULL
+539,35,"HQ3","","FAW","HQ3",NULL
+540,35,"Jinn","","FAW","Jinn",NULL
+541,35,"Vita","","FAW","Vita",NULL
+542,36,"Polonez","","FSO","Polonez",NULL
+543,37,"Tarpan Honker","","FSR","Tarpan Honker",NULL
+544,38,"208","","Ferrari","208",NULL
+545,38,"308","","Ferrari","308",NULL
+546,38,"328","","Ferrari","328",NULL
+547,38,"348","","Ferrari","348",NULL
+548,38,"355 Berlinetta","","Ferrari","355 Berlinetta",NULL
+549,38,"355F1","","Ferrari","355F1",NULL
+550,38,"360 Modena","","Ferrari","360 Modena",NULL
+551,38,"360 Spider","","Ferrari","360 Spider",NULL
+552,38,"365","","Ferrari","365",NULL
+553,38,"412","","Ferrari","412",NULL
+554,38,"456 GT","","Ferrari","456 GT",NULL
+555,38,"512 M","","Ferrari","512 M",NULL
+556,38,"550 Barchetta","","Ferrari","550 Barchetta",NULL
+557,38,"550 Maranello","","Ferrari","550 Maranello",NULL
+558,38,"575 Maranello","","Ferrari","575 Maranello",NULL
+559,38,"599 GTB","","Ferrari","599 GTB",NULL
+560,38,"612 Scaglietti","","Ferrari","612 Scaglietti",NULL
+561,38,"Enzo","","Ferrari","Enzo",NULL
+562,38,"F355 GTS","","Ferrari","F355 GTS",NULL
+563,38,"F355 Spider","","Ferrari","F355 Spider",NULL
+564,38,"F40","","Ferrari","F40",NULL
+565,38,"F430","","Ferrari","F430",NULL
+566,38,"F50","","Ferrari","F50",NULL
+567,38,"GTB","","Ferrari","GTB",NULL
+568,38,"Mondial 3.2","","Ferrari","Mondial 3.2",NULL
+569,38,"Mondial 8","","Ferrari","Mondial 8",NULL
+570,38,"Mondial T","","Ferrari","Mondial T",NULL
+571,38,"Testarossa","","Ferrari","Testarossa",NULL
+572,39,"124","","Fiat","124",NULL
+573,39,"126","","Fiat","126",NULL
+574,39,"127","","Fiat","127",NULL
+575,39,"131","","Fiat","131",NULL
+576,39,"242","","Fiat","242",NULL
+577,39,"500","","Fiat","500",NULL
+578,39,"600","","Fiat","600",NULL
+579,39,"850","","Fiat","850",NULL
+580,39,"Albea","","Fiat","Albea",NULL
+581,39,"Barchetta","","Fiat","Barchetta",NULL
+582,39,"Brava","","Fiat","Brava",NULL
+583,39,"Bravo","","Fiat","Bravo",NULL
+584,39,"Cinquecento","","Fiat","Cinquecento",NULL
+585,39,"Coupe","","Fiat","Coupe",NULL
+586,39,"Croma","","Fiat","Croma",NULL
+587,39,"Doblo","","Fiat","Doblo",NULL
+588,39,"Ducato","","Fiat","Ducato",NULL
+589,39,"Duna","","Fiat","Duna",NULL
+590,39,"Fiorino","","Fiat","Fiorino",NULL
+591,39,"Grande Punto","","Fiat","Grande Punto",NULL
+592,39,"Idea","","Fiat","Idea",NULL
+593,39,"Linea","","Fiat","Linea",NULL
+594,39,"Marea","","Fiat","Marea",NULL
+595,39,"Multipla","","Fiat","Multipla",NULL
+596,39,"Palio","","Fiat","Palio",NULL
+597,39,"Panda","","Fiat","Panda",NULL
+598,39,"Punto","","Fiat","Punto",NULL
+599,39,"Regata","","Fiat","Regata",NULL
+600,39,"Ritmo","","Fiat","Ritmo",NULL
+601,39,"Scudo","","Fiat","Scudo",NULL
+602,39,"Sedici","","Fiat","Sedici",NULL
+603,39,"Seicento","","Fiat","Seicento",NULL
+604,39,"Siena","","Fiat","Siena",NULL
+605,39,"Stilo","","Fiat","Stilo",NULL
+606,39,"Strada","","Fiat","Strada",NULL
+607,39,"Tempra","","Fiat","Tempra",NULL
+608,39,"Tipo","","Fiat","Tipo",NULL
+609,39,"Ulysse","","Fiat","Ulysse",NULL
+610,39,"Uno","","Fiat","Uno",NULL
+611,39,"X 1/9","","Fiat","X 1/9",NULL
+613,40,"Aerostar","","Ford","Aerostar",NULL
+614,40,"Aspire","","Ford","Aspire",NULL
+615,40,"Bronco","","Ford","Bronco",NULL
+616,40,"C-Max","","Ford","C-Max",NULL
+617,40,"Capri","","Ford","Capri",NULL
+618,40,"Consul","","Ford","Consul",NULL
+619,40,"Contour","","Ford","Contour",NULL
+620,40,"Cougar","","Ford","Cougar",NULL
+621,40,"Courier","","Ford","Courier",NULL
+622,40,"Crown Victoria","","Ford","Crown Victoria",NULL
+623,40,"Econoline","","Ford","Econoline",NULL
+624,40,"Econovan","","Ford","Econovan",NULL
+625,40,"Edge","","Ford","Edge",NULL
+626,40,"Escape","","Ford","Escape",NULL
+627,40,"Escort","","Ford","Escort",NULL
+628,40,"Everest","","Ford","Everest",NULL
+629,40,"Excursion","","Ford","Excursion",NULL
+630,40,"Expedition","","Ford","Expedition",NULL
+631,40,"Explorer","","Ford","Explorer",NULL
+632,40,"F150","","Ford","F150",NULL
+633,40,"F250","","Ford","F250",NULL
+634,40,"F350","","Ford","F350",NULL
+635,40,"Fairline","","Ford","Fairline",NULL
+636,40,"Festiva","","Ford","Festiva",NULL
+637,40,"Fiesta","","Ford","Fiesta",NULL
+638,40,"Five Hundred","","Ford","Five Hundred",NULL
+639,40,"Focus","","Ford","Focus",NULL
+640,40,"Freestar","","Ford","Freestar",NULL
+641,40,"Freestyle","","Ford","Freestyle",NULL
+642,40,"Fusion","","Ford","Fusion",NULL
+643,40,"Galaxy","","Ford","Galaxy",NULL
+644,40,"Granada","","Ford","Granada",NULL
+645,40,"Ikon","","Ford","Ikon",NULL
+646,40,"Ka","","Ford","Ka",NULL
+647,40,"Kuga","","Ford","Kuga",NULL
+648,40,"Laser","","Ford","Laser",NULL
+649,40,"Maverick","","Ford","Maverick",NULL
+650,40,"Mondeo","","Ford","Mondeo",NULL
+651,40,"Mustang","","Ford","Mustang",NULL
+652,40,"Orion","","Ford","Orion",NULL
+653,40,"Probe","","Ford","Probe",NULL
+654,40,"Puma","","Ford","Puma",NULL
+655,40,"Ranger","","Ford","Ranger",NULL
+656,40,"S-MAX","","Ford","S-MAX",NULL
+657,40,"Scorpio","","Ford","Scorpio",NULL
+658,40,"Sierra","","Ford","Sierra",NULL
+659,40,"Taunus","","Ford","Taunus",NULL
+660,40,"Taurus","","Ford","Taurus",NULL
+661,40,"Tempo","","Ford","Tempo",NULL
+662,40,"Territory","","Ford","Territory",NULL
+663,40,"Thunderbird","","Ford","Thunderbird",NULL
+664,40,"Tourneo Connect","","Ford","Tourneo Connect",NULL
+665,40,"Transit","","Ford","Transit",NULL
+666,40,"Windstar","","Ford","Windstar",NULL
+667,41,"Acadia","","GMC","Acadia",NULL
+668,41,"Canyon","","GMC","Canyon",NULL
+669,41,"Envoy","","GMC","Envoy",NULL
+670,41,"Jimmy","","GMC","Jimmy",NULL
+671,41,"Safary","","GMC","Safary",NULL
+672,41,"Savana","","GMC","Savana",NULL
+673,41,"Sierra","","GMC","Sierra",NULL
+674,41,"Suburban","","GMC","Suburban",NULL
+675,41,"Typhoon","","GMC","Typhoon",NULL
+676,41,"Vandura","","GMC","Vandura",NULL
+677,41,"Yukon","","GMC","Yukon",NULL
+678,42,"MK","","Geely","MK",NULL
+679,42,"Otaka","","Geely","Otaka",NULL
+680,42,"Vision","","Geely","Vision",NULL
+681,43,"206","","Geo","206",NULL
+682,43,"Prizm","","Geo","Prizm",NULL
+683,43,"Shtorm","","Geo","Shtorm",NULL
+684,43,"Tracker","","Geo","Tracker",NULL
+685,44,"G","","Ginetta","G",NULL
+686,45,"Alter","","Gonow","Alter",NULL
+687,45,"GX6","","Gonow","GX6",NULL
+688,46,"Deer","","Great Wall","Deer",NULL
+689,46,"Hover","","Great Wall","Hover",NULL
+690,46,"Pegasus","","Great Wall","Pegasus",NULL
+691,46,"Peri","","Great Wall","Peri",NULL
+692,46,"SUV","","Great Wall","SUV",NULL
+693,46,"Safe","","Great Wall","Safe",NULL
+694,46,"Sailor","","Great Wall","Sailor",NULL
+695,46,"Sing","","Great Wall","Sing",NULL
+696,46,"Sokol","","Great Wall","Sokol",NULL
+697,46,"Wingle","","Great Wall","Wingle",NULL
+698,47,"Brio","","Hafei","Brio",NULL
+699,47,"Princip","","Hafei","Princip",NULL
+700,47,"Simbo","","Hafei","Simbo",NULL
+701,48,"Caprice","","Holden","Caprice",NULL
+702,48,"Commodore","","Holden","Commodore",NULL
+703,48,"Statesman","","Holden","Statesman",NULL
+704,49,"Accord","","Honda","Accord",NULL
+705,49,"Airwave","","Honda","Airwave",NULL
+706,49,"Ascot","","Honda","Ascot",NULL
+707,49,"Avancier","","Honda","Avancier",NULL
+708,49,"CR-V","","Honda","CR-V",NULL
+709,49,"CRX","","Honda","CRX",NULL
+710,49,"Capa","","Honda","Capa",NULL
+711,49,"City","","Honda","City",NULL
+712,49,"Civic","","Honda","Civic",NULL
+713,49,"Concerto","","Honda","Concerto",NULL
+714,49,"Del Sol","","Honda","Del Sol",NULL
+715,49,"Domani","","Honda","Domani",NULL
+716,49,"Element","","Honda","Element",NULL
+717,49,"Elysion","","Honda","Elysion",NULL
+718,49,"FR-V","","Honda","FR-V",NULL
+719,49,"Fit","","Honda","Fit",NULL
+720,49,"HR-V","","Honda","HR-V",NULL
+721,49,"Insight","","Honda","Insight",NULL
+722,49,"Inspire","","Honda","Inspire",NULL
+723,49,"Integra","","Honda","Integra",NULL
+724,49,"Jazz","","Honda","Jazz",NULL
+725,49,"Lagreat","","Honda","Lagreat",NULL
+726,49,"Legend","","Honda","Legend",NULL
+727,49,"Life","","Honda","Life",NULL
+728,49,"Logo","","Honda","Logo",NULL
+729,49,"Mobilio","","Honda","Mobilio",NULL
+730,49,"NSX","","Honda","NSX",NULL
+731,49,"Odyssey","","Honda","Odyssey",NULL
+732,49,"Orthia","","Honda","Orthia",NULL
+733,49,"Partner","","Honda","Partner",NULL
+734,49,"Passport","","Honda","Passport",NULL
+735,49,"Pilot","","Honda","Pilot",NULL
+736,49,"Prelude","","Honda","Prelude",NULL
+737,49,"Rafaga","","Honda","Rafaga",NULL
+738,49,"Ridgeline","","Honda","Ridgeline",NULL
+739,49,"S-MX","","Honda","S-MX",NULL
+740,49,"S2000","","Honda","S2000",NULL
+741,49,"Saber","","Honda","Saber",NULL
+742,49,"Shuttle","","Honda","Shuttle",NULL
+743,49,"Spike","","Honda","Spike",NULL
+744,49,"Stepwgn","","Honda","Stepwgn",NULL
+745,49,"Stream","","Honda","Stream",""
+746,49,"That'S","","Honda","That'S",NULL
+747,49,"Today","","Honda","Today",NULL
+748,49,"Torneo","","Honda","Torneo",NULL
+749,49,"Vamos","","Honda","Vamos",NULL
+750,49,"Vigor","","Honda","Vigor",NULL
+751,49,"Z","","Honda","Z",NULL
+752,49,"Zest","","Honda","Zest",NULL
+753,50,"Antelope","","Huanghai","Antelope",NULL
+754,50,"Landscape","","Huanghai","Landscape",NULL
+755,50,"Major","","Huanghai","Major",NULL
+756,50,"Plutus","","Huanghai","Plutus",NULL
+757,51,"H1","","Hummer","H1",NULL
+758,51,"H2","","Hummer","H2",NULL
+759,51,"H3","","Hummer","H3",NULL
+760,52,"Accent","","Hyundai","Accent",NULL
+761,52,"Atos","","Hyundai","Atos",NULL
+762,52,"Avante","","Hyundai","Avante",NULL
+763,52,"Azera","","Hyundai","Azera",NULL
+764,52,"Centennial","","Hyundai","Centennial",NULL
+765,52,"Coupe","","Hyundai","Coupe",NULL
+766,52,"Dynasty","","Hyundai","Dynasty",NULL
+767,52,"Elantra","","Hyundai","Elantra",NULL
+768,52,"Entourage","","Hyundai","Entourage",NULL
+769,52,"Equis","","Hyundai","Equis",NULL
+770,52,"Galloper","","Hyundai","Galloper",NULL
+771,52,"Genesis","","Hyundai","Genesis",NULL
+772,52,"Getz","","Hyundai","Getz",NULL
+773,52,"Grandeur","","Hyundai","Grandeur",NULL
+774,52,"H1 (Starex)","","Hyundai","H1 (Starex)",NULL
+775,52,"H100","","Hyundai","H100",NULL
+776,52,"H200","","Hyundai","H200",NULL
+777,52,"Lantra","","Hyundai","Lantra",NULL
+778,52,"Lavita","","Hyundai","Lavita",NULL
+779,52,"Marcia","","Hyundai","Marcia",NULL
+780,52,"Matrix","","Hyundai","Matrix",NULL
+781,52,"NF Sonata","","Hyundai","NF Sonata",NULL
+782,52,"Pony","","Hyundai","Pony",NULL
+783,52,"Porter","","Hyundai","Porter",NULL
+784,52,"S Coupe","","Hyundai","S Coupe",NULL
+785,52,"Santa Fe","","Hyundai","Santa Fe",NULL
+786,52,"Santa Fe Classic","","Hyundai","Santa Fe Classic",NULL
+787,52,"Santamo","","Hyundai","Santamo",NULL
+788,52,"Sonata","","Hyundai","Sonata",NULL
+789,52,"Stelar","","Hyundai","Stelar",NULL
+790,52,"Terracan","","Hyundai","Terracan",NULL
+791,52,"Tiburon","","Hyundai","Tiburon",NULL
+792,52,"Trajet","","Hyundai","Trajet",NULL
+793,52,"Tucson","","Hyundai","Tucson",NULL
+794,52,"Tuscani","","Hyundai","Tuscani",NULL
+795,52,"Veracruz","","Hyundai","Veracruz",NULL
+796,52,"Verna","","Hyundai","Verna",NULL
+797,52,"XG","","Hyundai","XG",NULL
+798,52,"i10","","Hyundai","i10",NULL
+799,52,"i30","","Hyundai","i30",NULL
+800,53,"EX","","Infiniti","EX",NULL
+801,53,"FX","","Infiniti","FX",NULL
+802,53,"G COUPE","","Infiniti","G COUPE",NULL
+803,53,"G SEDAN","","Infiniti","G SEDAN",NULL
+804,53,"I","","Infiniti","I",NULL
+805,53,"J30","","Infiniti","J30",NULL
+806,53,"M","","Infiniti","M",NULL
+807,53,"Q45","","Infiniti","Q45",NULL
+808,53,"QX","","Infiniti","QX",NULL
+809,54,"Honker","","Intrall","Honker",NULL
+810,54,"Lublin","","Intrall","Lublin",NULL
+811,55,"Pars","","Iran Khodro","Pars",NULL
+812,55,"Samand","","Iran Khodro","Samand",NULL
+813,56,"Amigo","","Isuzu","Amigo",NULL
+814,56,"Ascender","","Isuzu","Ascender",NULL
+815,56,"Aska","","Isuzu","Aska",NULL
+816,56,"Axiom","","Isuzu","Axiom",NULL
+817,56,"Bighorn","","Isuzu","Bighorn",NULL
+818,56,"Crosswind","","Isuzu","Crosswind",NULL
+819,56,"D-Max","","Isuzu","D-Max",NULL
+820,56,"Faster","","Isuzu","Faster",NULL
+821,56,"Filly","","Isuzu","Filly",NULL
+822,56,"Gemini","","Isuzu","Gemini",NULL
+823,56,"MU","","Isuzu","MU",NULL
+824,56,"Midi","","Isuzu","Midi",NULL
+825,56,"Rodeo","","Isuzu","Rodeo",NULL
+826,56,"Trooper","","Isuzu","Trooper",NULL
+827,56,"Vehi Cross","","Isuzu","Vehi Cross",NULL
+828,56,"Wizard","","Isuzu","Wizard",NULL
+829,57,"Baodian","","JMC","Baodian",NULL
+830,58,"420","","Jaguar","420",NULL
+831,58,"E-Type","","Jaguar","E-Type",NULL
+832,58,"S-Type","","Jaguar","S-Type",NULL
+833,58,"Sovereign","","Jaguar","Sovereign",NULL
+834,58,"X-Type","","Jaguar","X-Type",NULL
+835,58,"XF","","Jaguar","XF",NULL
+836,58,"XJ","","Jaguar","XJ",NULL
+837,58,"XJ220","","Jaguar","XJ220",NULL
+838,58,"XJR","","Jaguar","XJR",NULL
+839,58,"XJS","","Jaguar","XJS",NULL
+840,58,"XK","","Jaguar","XK",NULL
+841,58,"mark","","Jaguar","mark",NULL
+842,59,"Cherokee","","Jeep","Cherokee",NULL
+843,59,"Commander","","Jeep","Commander",NULL
+844,59,"Compass","","Jeep","Compass",NULL
+845,59,"Grand Cherokee","","Jeep","Grand Cherokee",NULL
+846,59,"Liberty","","Jeep","Liberty",NULL
+847,59,"Patriot","","Jeep","Patriot",NULL
+848,59,"Wrangler","","Jeep","Wrangler",NULL
+849,60,"Haise","","Jindei","Haise",NULL
+850,61,"Avella","","Kia","Avella",NULL
+851,61,"Besta","","Kia","Besta",NULL
+852,61,"Carens","","Kia","Carens",NULL
+853,61,"Carnival","","Kia","Carnival",NULL
+854,61,"Ceed","","Kia","Ceed",NULL
+855,61,"Cerato","","Kia","Cerato",NULL
+856,61,"Clarus","","Kia","Clarus",NULL
+857,61,"Cosmos","","Kia","Cosmos",NULL
+858,61,"Elan","","Kia","Elan",NULL
+859,61,"Enterprise","","Kia","Enterprise",NULL
+860,61,"GrandBird","","Kia","GrandBird",NULL
+861,61,"Joice","","Kia","Joice",NULL
+862,61,"K","","Kia","K",NULL
+863,61,"Magentis","","Kia","Magentis",NULL
+864,61,"Opirus","","Kia","Opirus",NULL
+865,61,"Optima","","Kia","Optima",NULL
+866,61,"Picanto","","Kia","Picanto",NULL
+867,61,"Potentia","","Kia","Potentia",NULL
+868,61,"Pregio","","Kia","Pregio",NULL
+869,61,"Pride","","Kia","Pride",NULL
+870,61,"Retona","","Kia","Retona",NULL
+871,61,"Rio","","Kia","Rio",NULL
+872,61,"Sedona","","Kia","Sedona",NULL
+873,61,"Sephia","","Kia","Sephia",NULL
+874,61,"Shuma","","Kia","Shuma",NULL
+875,61,"Sorento","","Kia","Sorento",NULL
+876,61,"Spectra","","Kia","Spectra",NULL
+877,61,"Sportage","","Kia","Sportage",NULL
+878,61,"Visto","","Kia","Visto",NULL
+879,61,"X-Trek","","Kia","X-Trek",NULL
+880,62,"Countach","","Lamborghini","Countach",NULL
+881,62,"Diablo","","Lamborghini","Diablo",NULL
+882,62,"Espada","","Lamborghini","Espada",NULL
+883,62,"Gallardo","","Lamborghini","Gallardo",NULL
+884,62,"LM-002","","Lamborghini","LM-002",NULL
+885,62,"Murcielago","","Lamborghini","Murcielago",NULL
+886,63,"Dedra","","Lancia","Dedra",NULL
+887,63,"Delta","","Lancia","Delta",NULL
+888,63,"Fulvia","","Lancia","Fulvia",NULL
+889,63,"Kappa","","Lancia","Kappa",NULL
+890,63,"Lybra","","Lancia","Lybra",NULL
+891,63,"Musa","","Lancia","Musa",NULL
+892,63,"Phedra","","Lancia","Phedra",NULL
+893,63,"Prisma","","Lancia","Prisma",NULL
+894,63,"Thema","","Lancia","Thema",NULL
+895,63,"Thesis","","Lancia","Thesis",NULL
+896,63,"Trevi","","Lancia","Trevi",NULL
+897,63,"Ypsilon","","Lancia","Ypsilon",NULL
+898,63,"Zeta","","Lancia","Zeta",NULL
+899,64,"Defender","","Land Rover","Defender",NULL
+900,64,"Discovery","","Land Rover","Discovery",NULL
+901,64,"Freelander","","Land Rover","Freelander",NULL
+902,64,"Range Rover","","Land Rover","Range Rover",NULL
+903,64,"Range Rover Sport","","Land Rover","Range Rover Sport",NULL
+904,65,"SUV","","Landwind","SUV",NULL
+905,65,"X6","","Landwind","X6",NULL
+906,66,"ES","","Lexus","ES",NULL
+907,66,"GS","","Lexus","GS",NULL
+908,66,"GX","","Lexus","GX",NULL
+909,66,"IS","","Lexus","IS",NULL
+910,66,"LS","","Lexus","LS",NULL
+911,66,"LX","","Lexus","LX",NULL
+912,66,"RX","","Lexus","RX",NULL
+913,66,"SC","","Lexus","SC",NULL
+914,67,"Breez","","Lifan","Breez",NULL
+915,68,"Aviator","","Lincoln","Aviator",NULL
+916,68,"Blackwood","","Lincoln","Blackwood",NULL
+917,68,"Continental","","Lincoln","Continental",NULL
+918,68,"LS","","Lincoln","LS",NULL
+919,68,"MKX","","Lincoln","MKX",NULL
+920,68,"MKZ","","Lincoln","MKZ",NULL
+921,68,"Mark","","Lincoln","Mark",NULL
+922,68,"Mark LT","","Lincoln","Mark LT",NULL
+923,68,"Navigator","","Lincoln","Navigator",NULL
+924,68,"Town Car","","Lincoln","Town Car",NULL
+925,69,"Elise","","Lotus","Elise",NULL
+926,69,"Esprit","","Lotus","Esprit",NULL
+927,69,"Europa","","Lotus","Europa",NULL
+928,69,"Exige","","Lotus","Exige",NULL
+929,69,"Seven","","Lotus","Seven",NULL
+930,70,"7","","MG","7",NULL
+931,70,"Express","","MG","Express",NULL
+932,70,"MGF","","MG","MGF",NULL
+933,70,"Midget","","MG","Midget",NULL
+934,70,"TF","","MG","TF",NULL
+935,70,"XPower SV","","MG","XPower SV",NULL
+936,70,"ZR","","MG","ZR",NULL
+937,70,"ZS","","MG","ZS",NULL
+938,70,"ZT","","MG","ZT",NULL
+939,71,"Clubman","","MINI","Clubman",NULL
+940,71,"Cooper","","MINI","Cooper",NULL
+941,71,"One","","MINI","One",NULL
+942,72,"Armada","","Mahindra","Armada",NULL
+943,72,"CJ","","Mahindra","CJ",NULL
+944,72,"Commander","","Mahindra","Commander",NULL
+945,72,"Marshal","","Mahindra","Marshal",NULL
+946,73,"Mantaray","","Marcos","Mantaray",NULL
+947,73,"Mantis","","Marcos","Mantis",NULL
+948,74,"1000","","Maruti","1000",NULL
+949,74,"800","","Maruti","800",NULL
+950,74,"Esteem","","Maruti","Esteem",NULL
+951,74,"Gypsy","","Maruti","Gypsy",NULL
+952,74,"Omni","","Maruti","Omni",NULL
+953,74,"Zen","","Maruti","Zen",NULL
+954,75,"228","","Maserati","228",NULL
+955,75,"3200 GT","","Maserati","3200 GT",NULL
+956,75,"4300 GT Coupe","","Maserati","4300 GT Coupe",NULL
+957,75,"Coupe","","Maserati","Coupe",NULL
+958,75,"Ghibli","","Maserati","Ghibli",NULL
+959,75,"Ghibli II","","Maserati","Ghibli II",NULL
+960,75,"Gran Sport","","Maserati","Gran Sport",NULL
+961,75,"Gran Turismo","","Maserati","Gran Turismo",NULL
+962,75,"M 128","","Maserati","M 128",NULL
+963,75,"Quattroporte","","Maserati","Quattroporte",NULL
+964,75,"Spyder","","Maserati","Spyder",NULL
+965,76,"57","","Maybach","57",NULL
+966,76,"57S","","Maybach","57S",NULL
+967,76,"62","","Maybach","62",NULL
+968,76,"62S","","Maybach","62S",NULL
+969,77,"121","","Mazda","121",NULL
+970,77,"2","","Mazda","2",NULL
+971,77,"3","","Mazda","3",NULL
+972,77,"323","","Mazda","323",NULL
+973,77,"5","","Mazda","5",NULL
+974,77,"6","","Mazda","6",NULL
+975,77,"626","","Mazda","626",NULL
+976,77,"929","","Mazda","929",NULL
+977,77,"Allegro","","Mazda","Allegro",NULL
+978,77,"Atenza","","Mazda","Atenza",NULL
+979,77,"Az-wagon","","Mazda","Az-wagon",NULL
+980,77,"B-Series","","Mazda","B-Series",NULL
+981,77,"BT-50","","Mazda","BT-50",NULL
+982,77,"Bongo-Friendee","","Mazda","Bongo-Friendee",NULL
+983,77,"CX-7","","Mazda","CX-7",NULL
+984,77,"CX-9","","Mazda","CX-9",NULL
+985,77,"Capella","","Mazda","Capella",NULL
+986,77,"Carol","","Mazda","Carol",NULL
+987,77,"Demio","","Mazda","Demio",NULL
+988,77,"Efini MS-8","","Mazda","Efini MS-8",NULL
+989,77,"Familia","","Mazda","Familia",NULL
+990,77,"Fighter","","Mazda","Fighter",NULL
+991,77,"Lantis","","Mazda","Lantis",NULL
+992,77,"Levante","","Mazda","Levante",NULL
+993,77,"Luci","","Mazda","Luci",NULL
+994,77,"MPV","","Mazda","MPV",NULL
+995,77,"MPV 2","","Mazda","MPV 2",NULL
+996,77,"MX3","","Mazda","MX3",NULL
+997,77,"MX5","","Mazda","MX5",NULL
+998,77,"MX6","","Mazda","MX6",NULL
+999,77,"Millenia","","Mazda","Millenia",NULL
+1000,77,"Pick-Up","","Mazda","Pick-Up",NULL
+1001,77,"Premacy","","Mazda","Premacy",NULL
+1002,77,"Proceed","","Mazda","Proceed",NULL
+1003,77,"Protege","","Mazda","Protege",NULL
+1004,77,"RX-4","","Mazda","RX-4",NULL
+1005,77,"RX-7","","Mazda","RX-7",NULL
+1006,77,"RX-8","","Mazda","RX-8",NULL
+1007,77,"Scrum","","Mazda","Scrum",NULL
+1008,77,"Sentia","","Mazda","Sentia",NULL
+1009,77,"Tribute","","Mazda","Tribute",NULL
+1010,77,"Verisa","","Mazda","Verisa",NULL
+1011,77,"Xedos 6","","Mazda","Xedos 6",NULL
+1012,77,"Xedos 9","","Mazda","Xedos 9",NULL
+1013,78,"F1","","McLaren","F1",NULL
+1014,79,"A-ÍÎ‡ÒÒ","","Mercedes-Benz","A-ÍÎ‡ÒÒ",NULL
+1015,79,"B-ÍÎ‡ÒÒ","","Mercedes-Benz","B-ÍÎ‡ÒÒ",NULL
+1016,79,"C-ÍÎ‡ÒÒ","","Mercedes-Benz","C-ÍÎ‡ÒÒ",NULL
+1017,79,"CL-ÍÎ‡ÒÒ","","Mercedes-Benz","CL-ÍÎ‡ÒÒ",NULL
+1018,79,"CLC-ÍÎ‡ÒÒ","","Mercedes-Benz","CLC-ÍÎ‡ÒÒ",NULL
+1019,79,"CLK-ÍÎ‡ÒÒ","","Mercedes-Benz","CLK-ÍÎ‡ÒÒ",NULL
+1020,79,"CLS-ÍÎ‡ÒÒ","","Mercedes-Benz","CLS-ÍÎ‡ÒÒ",NULL
+1021,79,"E-ÍÎ‡ÒÒ","","Mercedes-Benz","E-ÍÎ‡ÒÒ",NULL
+1022,79,"G-ÍÎ‡ÒÒ","","Mercedes-Benz","G-ÍÎ‡ÒÒ",NULL
+1023,79,"GL-ÍÎ‡ÒÒ","","Mercedes-Benz","GL-ÍÎ‡ÒÒ",NULL
+1024,79,"GLK-ÍÎ‡ÒÒ","","Mercedes-Benz","GLK-ÍÎ‡ÒÒ",NULL
+1025,79,"M-ÍÎ‡ÒÒ","","Mercedes-Benz","M-ÍÎ‡ÒÒ",NULL
+1026,79,"Pullmann","","Mercedes-Benz","Pullmann",NULL
+1027,79,"R-ÍÎ‡ÒÒ","","Mercedes-Benz","R-ÍÎ‡ÒÒ",NULL
+1028,79,"S-ÍÎ‡ÒÒ","","Mercedes-Benz","S-ÍÎ‡ÒÒ",NULL
+1029,79,"SL-ÍÎ‡ÒÒ","","Mercedes-Benz","SL-ÍÎ‡ÒÒ",NULL
+1030,79,"SLK-ÍÎ‡ÒÒ","","Mercedes-Benz","SLK-ÍÎ‡ÒÒ",NULL
+1031,79,"SLR-ÍÎ‡ÒÒ","","Mercedes-Benz","SLR-ÍÎ‡ÒÒ",NULL
+1032,79,"Sprinter","","Mercedes-Benz","Sprinter",NULL
+1033,79,"V-ÍÎ‡ÒÒ","","Mercedes-Benz","V-ÍÎ‡ÒÒ",NULL
+1034,79,"Vaneo","","Mercedes-Benz","Vaneo",NULL
+1035,79,"Vario","","Mercedes-Benz","Vario",NULL
+1036,79,"Viano","","Mercedes-Benz","Viano",NULL
+1037,79,"Vito","","Mercedes-Benz","Vito",NULL
+1038,79,"W123","","Mercedes-Benz","W123",NULL
+1039,79,"W124","","Mercedes-Benz","W124",NULL
+1040,80,"Cougar","","Mercury","Cougar",NULL
+1041,80,"Grand Marquis","","Mercury","Grand Marquis",NULL
+1042,80,"Mariner","","Mercury","Mariner",NULL
+1043,80,"Milan","","Mercury","Milan",NULL
+1044,80,"Mountaineer","","Mercury","Mountaineer",NULL
+1045,80,"Mystique","","Mercury","Mystique",NULL
+1046,80,"Sable","","Mercury","Sable",NULL
+1047,80,"Topaz","","Mercury","Topaz",NULL
+1048,80,"Tracer","","Mercury","Tracer",NULL
+1049,80,"Villager","","Mercury","Villager",NULL
+1050,81,"Taxi","","Metrocab","Taxi",NULL
+1051,82,"3000 GT","","Mitsubishi","3000 GT",NULL
+1052,82,"Airtrek","","Mitsubishi","Airtrek",NULL
+1053,82,"Aspire","","Mitsubishi","Aspire",NULL
+1054,82,"Bravo","","Mitsubishi","Bravo",NULL
+1055,82,"Carisma","","Mitsubishi","Carisma",NULL
+1056,82,"Challenger","","Mitsubishi","Challenger",NULL
+1057,82,"Chariot","","Mitsubishi","Chariot",NULL
+1058,82,"Colt","","Mitsubishi","Colt",NULL
+1059,82,"Debonair","","Mitsubishi","Debonair",NULL
+1060,82,"Delica","","Mitsubishi","Delica",NULL
+1061,82,"Diamante","","Mitsubishi","Diamante",NULL
+1062,82,"Dingo","","Mitsubishi","Dingo",NULL
+1063,82,"Dion","","Mitsubishi","Dion",NULL
+1064,82,"EK","","Mitsubishi","EK",NULL
+1065,82,"Eclipse","","Mitsubishi","Eclipse",NULL
+1066,82,"Emeraude","","Mitsubishi","Emeraude",NULL
+1067,82,"Endeavor","","Mitsubishi","Endeavor",NULL
+1068,82,"Eterna","","Mitsubishi","Eterna",NULL
+1069,82,"FTO","","Mitsubishi","FTO",NULL
+1070,82,"Fuso Canter","","Mitsubishi","Fuso Canter",NULL
+1071,82,"GTO","","Mitsubishi","GTO",NULL
+1072,82,"Galant","","Mitsubishi","Galant",NULL
+1073,82,"Grandis","","Mitsubishi","Grandis",NULL
+1074,82,"L200","","Mitsubishi","L200",NULL
+1075,82,"L300","","Mitsubishi","L300",NULL
+1076,82,"L400","","Mitsubishi","L400",NULL
+1077,82,"Lancer","","Mitsubishi","Lancer",NULL
+1078,82,"Lancer Cedia","","Mitsubishi","Lancer Cedia",NULL
+1079,82,"Lancer Evolution","","Mitsubishi","Lancer Evolution",NULL
+1080,82,"Legnum","","Mitsubishi","Legnum",NULL
+1081,82,"Libero","","Mitsubishi","Libero",NULL
+1082,82,"Magna","","Mitsubishi","Magna",NULL
+1083,82,"Minica","","Mitsubishi","Minica",NULL
+1084,82,"Mirage","","Mitsubishi","Mirage",NULL
+1085,82,"Montero","","Mitsubishi","Montero",NULL
+1086,82,"Montero Sport","","Mitsubishi","Montero Sport",NULL
+1087,82,"Outlander","","Mitsubishi","Outlander",NULL
+1088,82,"Outlander XL","","Mitsubishi","Outlander XL",NULL
+1089,82,"Pajero","","Mitsubishi","Pajero",NULL
+1090,82,"Pajero IO","","Mitsubishi","Pajero IO",NULL
+1091,82,"Pajero Junior","","Mitsubishi","Pajero Junior",NULL
+1092,82,"Pajero Mini","","Mitsubishi","Pajero Mini",NULL
+1093,82,"Pajero Pinin","","Mitsubishi","Pajero Pinin",NULL
+1094,82,"Pajero Sport","","Mitsubishi","Pajero Sport",NULL
+1095,82,"Precis","","Mitsubishi","Precis",NULL
+1096,82,"Proudia","","Mitsubishi","Proudia",NULL
+1097,82,"RVR","","Mitsubishi","RVR",NULL
+1098,82,"Raider","","Mitsubishi","Raider",NULL
+1099,82,"Sigma","","Mitsubishi","Sigma",NULL
+1100,82,"Space Gear","","Mitsubishi","Space Gear",NULL
+1101,82,"Space Runner","","Mitsubishi","Space Runner",NULL
+1102,82,"Space Star","","Mitsubishi","Space Star",NULL
+1103,82,"Space Wagon","","Mitsubishi","Space Wagon",NULL
+1104,82,"Toppo","","Mitsubishi","Toppo",NULL
+1105,82,"Town Box","","Mitsubishi","Town Box",NULL
+1106,82,"Town Box Wide","","Mitsubishi","Town Box Wide",NULL
+1107,82,"Triton","","Mitsubishi","Triton",NULL
+1108,82,"i","","Mitsubishi","i",NULL
+1109,83,"Galue","","Mitsuoka","Galue",NULL
+1110,83,"Le-Seyde","","Mitsuoka","Le-Seyde",NULL
+1111,84,"4/4","","Morgan","4/4",NULL
+1112,84,"Aero 8","","Morgan","Aero 8",NULL
+1113,84,"Plus 4","","Morgan","Plus 4",NULL
+1114,84,"Plus 8","","Morgan","Plus 8",NULL
+1115,85,"100NX","","Nissan","100NX",NULL
+1116,85,"180SX","","Nissan","180SX",NULL
+1117,85,"200SX","","Nissan","200SX",NULL
+1118,85,"240SX","","Nissan","240SX",NULL
+1119,85,"280ZX","","Nissan","280ZX",NULL
+1120,85,"300ZX","","Nissan","300ZX",NULL
+1121,85,"350Z","","Nissan","350Z",NULL
+1122,85,"AD","","Nissan","AD",NULL
+1123,85,"Almera","","Nissan","Almera",NULL
+1124,85,"Almera Classic","","Nissan","Almera Classic",NULL
+1125,85,"Almera Tino","","Nissan","Almera Tino",NULL
+1126,85,"Altima","","Nissan","Altima",NULL
+1127,85,"Armada","","Nissan","Armada",NULL
+1128,85,"Avenir","","Nissan","Avenir",NULL
+1129,85,"Bassara","","Nissan","Bassara",NULL
+1130,85,"Bluebird","","Nissan","Bluebird",NULL
+1131,85,"Bluebird Sylphy","","Nissan","Bluebird Sylphy",NULL
+1132,85,"Caravan","","Nissan","Caravan",NULL
+1133,85,"Cedric","","Nissan","Cedric",NULL
+1134,85,"Cefiro","","Nissan","Cefiro",NULL
+1135,85,"Cherry","","Nissan","Cherry",NULL
+1136,85,"Cima","","Nissan","Cima",NULL
+1137,85,"Civilian","","Nissan","Civilian",NULL
+1138,85,"Crew","","Nissan","Crew",NULL
+1139,85,"Cube","","Nissan","Cube",NULL
+1140,85,"Datsun","","Nissan","Datsun",NULL
+1141,85,"Elgrand","","Nissan","Elgrand",NULL
+1142,85,"Expert","","Nissan","Expert",NULL
+1143,85,"Fairlady","","Nissan","Fairlady",NULL
+1144,85,"Frontier","","Nissan","Frontier",NULL
+1145,85,"Gloria","","Nissan","Gloria",NULL
+1146,85,"Largo","","Nissan","Largo",NULL
+1147,85,"Laurel","","Nissan","Laurel",NULL
+1148,85,"Leopard","","Nissan","Leopard",NULL
+1149,85,"Liberty","","Nissan","Liberty",NULL
+1150,85,"Livina Geniss","","Nissan","Livina Geniss",NULL
+1151,85,"Lucino","","Nissan","Lucino",NULL
+1152,85,"March","","Nissan","March",NULL
+1153,85,"Maxima","","Nissan","Maxima",NULL
+1154,85,"Maxima QX","","Nissan","Maxima QX",NULL
+1155,85,"Micra","","Nissan","Micra",NULL
+1156,85,"Mistral","","Nissan","Mistral",NULL
+1157,85,"Moco","","Nissan","Moco",NULL
+1158,85,"Murano","","Nissan","Murano",NULL
+1159,85,"NP300","","Nissan","NP300",NULL
+1160,85,"Navara","","Nissan","Navara",NULL
+1161,85,"Note","","Nissan","Note",NULL
+1162,85,"Otti","","Nissan","Otti",NULL
+1163,85,"Pathfinder","","Nissan","Pathfinder",NULL
+1164,85,"Pathfinder Aramada","","Nissan","Pathfinder Aramada",NULL
+1165,85,"Patrol","","Nissan","Patrol",NULL
+1166,85,"Pickup","","Nissan","Pickup",NULL
+1167,85,"Prairie","","Nissan","Prairie",NULL
+1168,85,"Presage","","Nissan","Presage",NULL
+1169,85,"Presea","","Nissan","Presea",NULL
+1170,85,"President","","Nissan","President",NULL
+1171,85,"Primastar","","Nissan","Primastar",NULL
+1172,85,"Primera","","Nissan","Primera",NULL
+1173,85,"Pulsar","","Nissan","Pulsar",NULL
+1174,85,"Qashqai","","Nissan","Qashqai",NULL
+1175,85,"Quest","","Nissan","Quest",NULL
+1176,85,"R'nessa","","Nissan","R'nessa",NULL
+1177,85,"Rasheen","","Nissan","Rasheen",NULL
+1178,85,"Rogue","","Nissan","Rogue",NULL
+1179,85,"Safari","","Nissan","Safari",NULL
+1180,85,"Sentra","","Nissan","Sentra",NULL
+1181,85,"Serena","","Nissan","Serena",NULL
+1182,85,"Silvia","","Nissan","Silvia",NULL
+1183,85,"Skyline","","Nissan","Skyline",NULL
+1184,85,"Stagea","","Nissan","Stagea",NULL
+1185,85,"Stanza","","Nissan","Stanza",NULL
+1186,85,"Sunny","","Nissan","Sunny",NULL
+1187,85,"Teana","","Nissan","Teana",NULL
+1188,85,"Terrano","","Nissan","Terrano",NULL
+1189,85,"Tiida","","Nissan","Tiida",NULL
+1190,85,"Tiida latio","","Nissan","Tiida latio",NULL
+1191,85,"Tino","","Nissan","Tino",NULL
+1192,85,"Titan","","Nissan","Titan",NULL
+1193,85,"Vanette","","Nissan","Vanette",NULL
+1194,85,"Versa","","Nissan","Versa",NULL
+1195,85,"Wingroad","","Nissan","Wingroad",NULL
+1196,85,"X-Trail","","Nissan","X-Trail",NULL
+1197,85,"Xterra","","Nissan","Xterra",NULL
+1198,86,"Achieva","","Oldsmobile","Achieva",NULL
+1199,86,"Alero","","Oldsmobile","Alero",NULL
+1200,86,"Aurora","","Oldsmobile","Aurora",NULL
+1201,86,"Bravada","","Oldsmobile","Bravada",NULL
+1202,86,"Cutlass","","Oldsmobile","Cutlass",NULL
+1203,86,"Cutlass Calais","","Oldsmobile","Cutlass Calais",NULL
+1204,86,"Cutlass Ciera","","Oldsmobile","Cutlass Ciera",NULL
+1205,86,"Cutlass Cruiser","","Oldsmobile","Cutlass Cruiser",NULL
+1206,86,"Cutlass Supreme","","Oldsmobile","Cutlass Supreme",NULL
+1207,86,"Delta","","Oldsmobile","Delta",NULL
+1208,86,"Eighty Eight","","Oldsmobile","Eighty Eight",NULL
+1209,86,"Intrigue","","Oldsmobile","Intrigue",NULL
+1210,86,"Nineghty eight","","Oldsmobile","Nineghty eight",NULL
+1211,86,"Omega","","Oldsmobile","Omega",NULL
+1212,86,"Silhouette","","Oldsmobile","Silhouette",NULL
+1213,87,"Admiral","","Opel","Admiral",NULL
+1214,87,"Agila","","Opel","Agila",NULL
+1215,87,"Antara","","Opel","Antara",NULL
+1216,87,"Arena","","Opel","Arena",NULL
+1217,87,"Ascona","","Opel","Ascona",NULL
+1218,87,"Astra","","Opel","Astra",NULL
+1219,87,"Calibra","","Opel","Calibra",NULL
+1220,87,"Campo","","Opel","Campo",NULL
+1221,87,"Combo","","Opel","Combo",NULL
+1222,87,"Corsa","","Opel","Corsa",NULL
+1223,87,"Frontera","","Opel","Frontera",NULL
+1224,87,"GT","","Opel","GT",NULL
+1225,87,"Insignia","","Opel","Insignia",NULL
+1226,87,"Kadett","","Opel","Kadett",NULL
+1227,87,"Manta","","Opel","Manta",NULL
+1228,87,"Meriva","","Opel","Meriva",NULL
+1229,87,"Monterey","","Opel","Monterey",NULL
+1230,87,"Monza","","Opel","Monza",NULL
+1231,87,"Movano","","Opel","Movano",NULL
+1232,87,"Olimpia","","Opel","Olimpia",NULL
+1233,87,"Omega","","Opel","Omega",NULL
+1234,87,"Rekord","","Opel","Rekord",NULL
+1235,87,"Senator","","Opel","Senator",NULL
+1236,87,"Signum","","Opel","Signum",NULL
+1237,87,"Sintra","","Opel","Sintra",NULL
+1238,87,"Speedster","","Opel","Speedster",NULL
+1239,87,"Tigra","","Opel","Tigra",NULL
+1240,87,"Vectra","","Opel","Vectra",NULL
+1241,87,"Vita","","Opel","Vita",NULL
+1242,87,"Vivaro","","Opel","Vivaro",NULL
+1243,87,"Zafira","","Opel","Zafira",NULL
+1244,88,"Pinzgauer","","Steyr-Daimler-Puch","Pinzgauer",NULL
+1245,89,"Zonda","","Pagani","Zonda",NULL
+1246,90,"Esperante","","Panoz","Esperante",NULL
+1247,91,"1007","","Peugeot","1007",NULL
+1248,91,"106","","Peugeot","106",NULL
+1249,91,"107","","Peugeot","107",NULL
+1250,91,"204","","Peugeot","204",NULL
+1251,91,"205","","Peugeot","205",NULL
+1252,91,"206","","Peugeot","206",NULL
+1253,91,"207","","Peugeot","207",NULL
+1254,91,"305","","Peugeot","305",NULL
+1255,91,"306","","Peugeot","306",NULL
+1256,91,"307","","Peugeot","307",NULL
+1257,91,"308","","Peugeot","308",NULL
+1258,91,"4007","","Peugeot","4007",NULL
+1259,91,"405","","Peugeot","405",NULL
+1260,91,"406","","Peugeot","406",NULL
+1261,91,"407","","Peugeot","407",NULL
+1262,91,"504","","Peugeot","504",NULL
+1263,91,"505","","Peugeot","505",NULL
+1264,91,"604","","Peugeot","604",NULL
+1265,91,"605","","Peugeot","605",NULL
+1266,91,"607","","Peugeot","607",NULL
+1267,91,"608","","Peugeot","608",NULL
+1268,91,"806","","Peugeot","806",NULL
+1269,91,"807","","Peugeot","807",NULL
+1270,91,"Boxer","","Peugeot","Boxer",NULL
+1271,91,"Expert","","Peugeot","Expert",NULL
+1272,91,"Partner","","Peugeot","Partner",NULL
+1274,92,"Acclaim","","Plymouth","Acclaim",NULL
+1275,92,"Breeze","","Plymouth","Breeze",NULL
+1276,92,"Laser","","Plymouth","Laser",NULL
+1277,92,"Neon","","Plymouth","Neon",NULL
+1278,92,"Prowler","","Plymouth","Prowler",NULL
+1279,92,"Sundance","","Plymouth","Sundance",NULL
+1280,92,"Voyager","","Plymouth","Voyager",NULL
+1281,93,"Aztec","","Pontiac","Aztec",NULL
+1282,93,"Bonneville","","Pontiac","Bonneville",NULL
+1283,93,"Firebird","","Pontiac","Firebird",NULL
+1284,93,"G5","","Pontiac","G5",NULL
+1285,93,"G6","","Pontiac","G6",NULL
+1286,93,"G7","","Pontiac","G7",NULL
+1287,93,"G8","","Pontiac","G8",NULL
+1288,93,"GTO","","Pontiac","GTO",NULL
+1289,93,"Grand AM","","Pontiac","Grand AM",NULL
+1290,93,"Grand Prix","","Pontiac","Grand Prix",NULL
+1291,93,"Lemans","","Pontiac","Lemans",NULL
+1292,93,"Montana","","Pontiac","Montana",NULL
+1293,93,"Phoenix","","Pontiac","Phoenix",NULL
+1294,93,"Solstice","","Pontiac","Solstice",NULL
+1295,93,"Sunbird","","Pontiac","Sunbird",NULL
+1296,93,"Sunfire","","Pontiac","Sunfire",NULL
+1297,93,"Torrent","","Pontiac","Torrent",NULL
+1298,93,"Trans AM","","Pontiac","Trans AM",NULL
+1299,93,"Trans Sport","","Pontiac","Trans Sport",NULL
+1300,93,"Vibe","","Pontiac","Vibe",NULL
+1301,93,"Wave","","Pontiac","Wave",NULL
+1302,94,"911","","Porsche","911",NULL
+1303,94,"924","","Porsche","924",NULL
+1304,94,"928","","Porsche","928",NULL
+1305,94,"944","","Porsche","944",NULL
+1306,94,"968","","Porsche","968",NULL
+1307,94,"996","","Porsche","996",NULL
+1308,94,"997","","Porsche","997",NULL
+1309,94,"Boxster","","Porsche","Boxster",NULL
+1310,94,"Carrera GT","","Porsche","Carrera GT",NULL
+1311,94,"Cayenne","","Porsche","Cayenne",NULL
+1312,94,"Cayman","","Porsche","Cayman",NULL
+1313,95,"315","","Proton","315",NULL
+1314,95,"415","","Proton","415",NULL
+1315,95,"Persona","","Proton","Persona",NULL
+1316,95,"Putra","","Proton","Putra",NULL
+1317,95,"Satria","","Proton","Satria",NULL
+1318,96,"10","","Renault","10",NULL
+1319,96,"11","","Renault","11",NULL
+1320,96,"14","","Renault","14",NULL
+1321,96,"18","","Renault","18",NULL
+1322,96,"19","","Renault","19",NULL
+1323,96,"21","","Renault","21",NULL
+1324,96,"25","","Renault","25",NULL
+1325,96,"30","","Renault","30",NULL
+1326,96,"4","","Renault","4",NULL
+1327,96,"5","","Renault","5",NULL
+1328,96,"8","","Renault","8",NULL
+1329,96,"9","","Renault","9",NULL
+1330,96,"Avantime","","Renault","Avantime",NULL
+1331,96,"Clio","","Renault","Clio",NULL
+1332,96,"Espace","","Renault","Espace",NULL
+1333,96,"Express","","Renault","Express",NULL
+1334,96,"Fuego","","Renault","Fuego",NULL
+1335,96,"Grand Espace","","Renault","Grand Espace",NULL
+1336,96,"Grand Scenic","","Renault","Grand Scenic",NULL
+1337,96,"Kangoo","","Renault","Kangoo",NULL
+1338,96,"Koleos","","Renault","Koleos",NULL
+1339,96,"Laguna","","Renault","Laguna",NULL
+1340,96,"Logan","","Renault","Logan",NULL
+1341,96,"Magnum","","Renault","Magnum",NULL
+1342,96,"Mascott","","Renault","Mascott",NULL
+1343,96,"Master","","Renault","Master",NULL
+1344,96,"Megane","","Renault","Megane",NULL
+1345,96,"Midlum","","Renault","Midlum",NULL
+1346,96,"Modus","","Renault","Modus",NULL
+1347,96,"Nevada","","Renault","Nevada",NULL
+1348,96,"Premium","","Renault","Premium",NULL
+1349,96,"Rapid","","Renault","Rapid",NULL
+1350,96,"Safrane","","Renault","Safrane",NULL
+1351,96,"Scenic","","Renault","Scenic",NULL
+1352,96,"Sport Spyder","","Renault","Sport Spyder",NULL
+1353,96,"Symbol","","Renault","Symbol",NULL
+1354,96,"Trafic","","Renault","Trafic",NULL
+1355,96,"Twingo","","Renault","Twingo",NULL
+1356,96,"Vel Satis","","Renault","Vel Satis",NULL
+1357,97,"750","","Roewe","750",NULL
+1358,98,"Corniche","","Rolls-Royce","Corniche",NULL
+1359,98,"Park Ward","","Rolls-Royce","Park Ward",NULL
+1360,98,"Phantom","","Rolls-Royce","Phantom",NULL
+1361,98,"Silver Seraph","","Rolls-Royce","Silver Seraph",NULL
+1362,98,"Silver Spur","","Rolls-Royce","Silver Spur",NULL
+1363,99,"100","","Rover","100",NULL
+1364,99,"200","","Rover","200",NULL
+1365,99,"213","","Rover","213",NULL
+1366,99,"25","","Rover","25",NULL
+1367,99,"2600","","Rover","2600",NULL
+1368,99,"400","","Rover","400",NULL
+1369,99,"45","","Rover","45",NULL
+1370,99,"600","","Rover","600",NULL
+1371,99,"75","","Rover","75",NULL
+1372,99,"800","","Rover","800",NULL
+1373,99,"City","","Rover","City",NULL
+1374,99,"MGF","","Rover","MGF",NULL
+1375,99,"Maestro","","Rover","Maestro",NULL
+1376,99,"Metro","","Rover","Metro",NULL
+1377,99,"Mini","","Rover","Mini",NULL
+1378,99,"Streetwise","","Rover","Streetwise",NULL
+1379,100,"Alhambra","","SEAT","Alhambra",NULL
+1380,100,"Altea","","SEAT","Altea",NULL
+1381,100,"Arosa","","SEAT","Arosa",NULL
+1382,100,"Cordoba","","SEAT","Cordoba",NULL
+1383,100,"Exeo","","SEAT","Exeo",NULL
+1384,100,"Freetrack","","SEAT","Freetrack",NULL
+1385,100,"Ibiza","","SEAT","Ibiza",NULL
+1386,100,"Inca","","SEAT","Inca",NULL
+1387,100,"Leon","","SEAT","Leon",NULL
+1388,100,"Marbella","","SEAT","Marbella",NULL
+1389,100,"Toledo","","SEAT","Toledo",NULL
+1390,100,"XL","","SEAT","XL",NULL
+1391,101,"9-2","","Saab","9-2",NULL
+1392,101,"9-3","","Saab","9-3",NULL
+1393,101,"9-5","","Saab","9-5",NULL
+1394,101,"9-7X","","Saab","9-7X",NULL
+1395,101,"900","","Saab","900",NULL
+1396,101,"900 II","","Saab","900 II",NULL
+1397,101,"9000","","Saab","9000",NULL
+1398,102,"S7","","Saleen","S7",NULL
+1399,103,"SM3","","Samsung","SM3",NULL
+1400,103,"SM5","","Samsung","SM5",NULL
+1401,103,"SM7","","Samsung","SM7",NULL
+1402,104,"Astra","","Saturn","Astra",NULL
+1403,104,"Aura","","Saturn","Aura",NULL
+1404,104,"ION","","Saturn","ION",NULL
+1405,104,"Ion Red Line","","Saturn","Ion Red Line",NULL
+1406,104,"LS","","Saturn","LS",NULL
+1407,104,"LW","","Saturn","LW",NULL
+1408,104,"Outlook","","Saturn","Outlook",NULL
+1409,104,"SC1","","Saturn","SC1",NULL
+1410,104,"SC2","","Saturn","SC2",NULL
+1411,104,"SL","","Saturn","SL",NULL
+1412,104,"SL2","","Saturn","SL2",NULL
+1413,104,"SW","","Saturn","SW",NULL
+1414,104,"Sky","","Saturn","Sky",NULL
+1415,104,"VUE","","Saturn","VUE",NULL
+1416,105,"tC","","Scion","tC",NULL
+1417,105,"xA","","Scion","xA",NULL
+1418,105,"xB","","Scion","xB",NULL
+1419,105,"xD","","Scion","xD",NULL
+1420,107,"SCEO","","Shuanghuan","SCEO",NULL
+1421,108,"105, 120","","Skoda","105, 120",NULL
+1422,108,"Fabia","","Skoda","Fabia",NULL
+1423,108,"Favorit","","Skoda","Favorit",NULL
+1424,108,"Felicia","","Skoda","Felicia",NULL
+1425,108,"Forman","","Skoda","Forman",NULL
+1426,108,"Octavia","","Skoda","Octavia",NULL
+1427,108,"Octavia Scout","","Skoda","Octavia Scout",NULL
+1428,108,"Octavia Tour","","Skoda","Octavia Tour",NULL
+1429,108,"Praktik","","Skoda","Praktik",NULL
+1430,108,"Rapid","","Skoda","Rapid",NULL
+1431,108,"Roomster","","Skoda","Roomster",NULL
+1432,108,"Superb","","Skoda","Superb",NULL
+1433,109,"City","","Smart","City",NULL
+1434,109,"Forfour","","Smart","Forfour",NULL
+1435,109,"Fortwo","","Smart","Fortwo",NULL
+1436,109,"Roadster","","Smart","Roadster",NULL
+1437,110,"C8","","Spyker","C8",NULL
+1438,111,"Actyon","","SsangYong","Actyon",NULL
+1439,111,"Actyon Sport","","SsangYong","Actyon Sport",NULL
+1440,111,"Chairman","","SsangYong","Chairman",NULL
+1441,111,"Istana","","SsangYong","Istana",NULL
+1442,111,"Korando","","SsangYong","Korando",NULL
+1443,111,"Korando Family","","SsangYong","Korando Family",NULL
+1444,111,"Kyron","","SsangYong","Kyron",NULL
+1445,111,"Musso","","SsangYong","Musso",NULL
+1446,111,"Musso Sports","","SsangYong","Musso Sports",NULL
+1447,111,"Rexton","","SsangYong","Rexton",NULL
+1448,111,"Rodius","","SsangYong","Rodius",NULL
+1449,112,"Baja","","Subaru","Baja",NULL
+1450,112,"Dias Wagon","","Subaru","Dias Wagon",NULL
+1451,112,"E10","","Subaru","E10",NULL
+1452,112,"E12","","Subaru","E12",NULL
+1453,112,"Forester","","Subaru","Forester",NULL
+1454,112,"Impreza","","Subaru","Impreza",NULL
+1455,112,"Impreza WRX STI","","Subaru","Impreza WRX STI",NULL
+1456,112,"Justy","","Subaru","Justy",NULL
+1457,112,"Legacy","","Subaru","Legacy",NULL
+1458,112,"Leone","","Subaru","Leone",NULL
+1459,112,"Libero","","Subaru","Libero",NULL
+1460,112,"Outback","","Subaru","Outback",NULL
+1461,112,"Pleo","","Subaru","Pleo",NULL
+1462,112,"R1","","Subaru","R1",NULL
+1463,112,"R2","","Subaru","R2",NULL
+1464,112,"SVX","","Subaru","SVX",NULL
+1465,112,"Sambar","","Subaru","Sambar",NULL
+1466,112,"Stella","","Subaru","Stella",NULL
+1467,112,"Traviq","","Subaru","Traviq",NULL
+1468,112,"Tribeca","","Subaru","Tribeca",NULL
+1469,112,"Vivio","","Subaru","Vivio",NULL
+1470,113,"Aerio","","Suzuki","Aerio",NULL
+1471,113,"Alto","","Suzuki","Alto",NULL
+1472,113,"Baleno","","Suzuki","Baleno",NULL
+1473,113,"Cappuccino","","Suzuki","Cappuccino",NULL
+1474,113,"Cultus","","Suzuki","Cultus",NULL
+1475,113,"Equator","","Suzuki","Equator",NULL
+1476,113,"Escudo","","Suzuki","Escudo",NULL
+1477,113,"Esteem","","Suzuki","Esteem",NULL
+1478,113,"Every","","Suzuki","Every",NULL
+1479,113,"Forenza","","Suzuki","Forenza",NULL
+1480,113,"Geo","","Suzuki","Geo",NULL
+1481,113,"Grand Vitara","","Suzuki","Grand Vitara",NULL
+1482,113,"Ignis","","Suzuki","Ignis",NULL
+1483,113,"Jimny","","Suzuki","Jimny",NULL
+1484,113,"Kei","","Suzuki","Kei",NULL
+1485,113,"Lapin","","Suzuki","Lapin",NULL
+1486,113,"Liana","","Suzuki","Liana",NULL
+1487,113,"Reno","","Suzuki","Reno",NULL
+1488,113,"SX4","","Suzuki","SX4",NULL
+1489,113,"Samurai","","Suzuki","Samurai",NULL
+1490,113,"Sidekick","","Suzuki","Sidekick",NULL
+1491,113,"Solio","","Suzuki","Solio",NULL
+1492,113,"Splash","","Suzuki","Splash",NULL
+1493,113,"Swift","","Suzuki","Swift",NULL
+1494,113,"Twin","","Suzuki","Twin",NULL
+1495,113,"Verona","","Suzuki","Verona",NULL
+1496,113,"Vitara","","Suzuki","Vitara",NULL
+1497,113,"Wagon R+","","Suzuki","Wagon R+",NULL
+1498,113,"X-90","","Suzuki","X-90",NULL
+1499,113,"XL-7","","Suzuki","XL-7",NULL
+1500,114,"Cerbera","","TVR","Cerbera",NULL
+1501,114,"Chimaera","","TVR","Chimaera",NULL
+1502,114,"Griffith","","TVR","Griffith",NULL
+1503,114,"T350","","TVR","T350",NULL
+1504,114,"Tamora","","TVR","Tamora",NULL
+1505,114,"Tuscan","","TVR","Tuscan",NULL
+1506,115,"1307-1510","","Talbot","1307-1510",NULL
+1507,115,"Horizon","","Talbot","Horizon",NULL
+1508,115,"Tagora","","Talbot","Tagora",NULL
+1509,116,"Indica","","Tata","Indica",NULL
+1510,117,"613","","Tatra","613",NULL
+1511,117,"700","","Tatra","700",NULL
+1512,117,"815","","Tatra","815",NULL
+1513,118,"Century","","Tianma","Century",NULL
+1514,119,"Admiral","","Tianye","Admiral",NULL
+1515,119,"Banner","","Tianye","Banner",NULL
+1516,120,"Dogan","","Tofas","Dogan",NULL
+1517,120,"Kartal","","Tofas","Kartal",NULL
+1518,120,"Sahin","","Tofas","Sahin",NULL
+1519,120,"Serce","","Tofas","Serce",NULL
+1520,120,"Tempra","","Tofas","Tempra",NULL
+1521,121,"4 Runner","","Toyota","4 Runner",NULL
+1522,121,"Allex","","Toyota","Allex",NULL
+1523,121,"Allion","","Toyota","Allion",NULL
+1524,121,"Alphard","","Toyota","Alphard",NULL
+1525,121,"Altezza","","Toyota","Altezza",NULL
+1526,121,"Aristo","","Toyota","Aristo",NULL
+1527,121,"Aurion","","Toyota","Aurion",NULL
+1528,121,"Auris","","Toyota","Auris",NULL
+1529,121,"Avalon","","Toyota","Avalon",NULL
+1530,121,"Avensis","","Toyota","Avensis",NULL
+1531,121,"Avensis Verso","","Toyota","Avensis Verso",NULL
+1532,121,"Aygo","","Toyota","Aygo",NULL
+1533,121,"Bandeirante","","Toyota","Bandeirante",NULL
+1534,121,"Brevis","","Toyota","Brevis",NULL
+1535,121,"Caldina","","Toyota","Caldina",NULL
+1536,121,"Cami","","Toyota","Cami",NULL
+1537,121,"Camry","","Toyota","Camry",NULL
+1538,121,"Camry Solara","","Toyota","Camry Solara",NULL
+1539,121,"Carina","","Toyota","Carina",NULL
+1540,121,"Carina E","","Toyota","Carina E",NULL
+1541,121,"Carina ED","","Toyota","Carina ED",NULL
+1542,121,"Cavalier","","Toyota","Cavalier",NULL
+1543,121,"Celica","","Toyota","Celica",NULL
+1544,121,"Celsior","","Toyota","Celsior",NULL
+1545,121,"Century","","Toyota","Century",NULL
+1546,121,"Chaser","","Toyota","Chaser",NULL
+1547,121,"Coaster","","Toyota","Coaster",NULL
+1548,121,"Corolla","","Toyota","Corolla",NULL
+1549,121,"Corolla Ceres","","Toyota","Corolla Ceres",NULL
+1550,121,"Corolla Fielder","","Toyota","Corolla Fielder",NULL
+1551,121,"Corolla Levin","","Toyota","Corolla Levin",NULL
+1552,121,"Corolla Runx","","Toyota","Corolla Runx",NULL
+1553,121,"Corolla Spacio","","Toyota","Corolla Spacio",NULL
+1554,121,"Corolla Verso","","Toyota","Corolla Verso",NULL
+1555,121,"Corona","","Toyota","Corona",NULL
+1556,121,"Corona Premio","","Toyota","Corona Premio",NULL
+1557,121,"Corsa","","Toyota","Corsa",NULL
+1558,121,"Cressida","","Toyota","Cressida",NULL
+1559,121,"Cresta","","Toyota","Cresta",NULL
+1560,121,"Crown","","Toyota","Crown",NULL
+1561,121,"Crown Athlete","","Toyota","Crown Athlete",NULL
+1562,121,"Crown Majesta","","Toyota","Crown Majesta",NULL
+1563,121,"Crown Royal","","Toyota","Crown Royal",NULL
+1564,121,"Curren","","Toyota","Curren",NULL
+1565,121,"Cynos","","Toyota","Cynos",NULL
+1566,121,"Duet","","Toyota","Duet",NULL
+1567,121,"Echo","","Toyota","Echo",NULL
+1568,121,"Estima","","Toyota","Estima",NULL
+1569,121,"Estima Lucida","","Toyota","Estima Lucida",NULL
+1570,121,"FJ Cruiser","","Toyota","FJ Cruiser",NULL
+1571,121,"Fortuner","","Toyota","Fortuner",NULL
+1572,121,"Funcargo","","Toyota","Funcargo",NULL
+1573,121,"Gaia","","Toyota","Gaia",NULL
+1574,121,"Grand hiace","","Toyota","Grand hiace",NULL
+1575,121,"Granvia","","Toyota","Granvia",NULL
+1576,121,"Harrier","","Toyota","Harrier",NULL
+1577,121,"Hiace","","Toyota","Hiace",NULL
+1578,121,"Highlander","","Toyota","Highlander",NULL
+1579,121,"Hilux","","Toyota","Hilux",NULL
+1580,121,"Hilux Surf","","Toyota","Hilux Surf",NULL
+1581,121,"Ipsum","","Toyota","Ipsum",NULL
+1582,121,"Isis","","Toyota","Isis",NULL
+1583,121,"Ist","","Toyota","Ist",NULL
+1584,121,"Kluger","","Toyota","Kluger",NULL
+1585,121,"Land Cruiser","","Toyota","Land Cruiser",NULL
+1586,121,"Land Cruiser Prado","","Toyota","Land Cruiser Prado",NULL
+1587,121,"Lite Ace","","Toyota","Lite Ace",NULL
+1588,121,"MR2","","Toyota","MR2",NULL
+1589,121,"MRS","","Toyota","MRS",NULL
+1590,121,"Mark II","","Toyota","Mark II",NULL
+1591,121,"Mark X","","Toyota","Mark X",NULL
+1592,121,"Matrix","","Toyota","Matrix",NULL
+1593,121,"Nadia","","Toyota","Nadia",NULL
+1594,121,"Noah","","Toyota","Noah",NULL
+1595,121,"Opa","","Toyota","Opa",NULL
+1596,121,"Origin","","Toyota","Origin",NULL
+1597,121,"Paseo","","Toyota","Paseo",NULL
+1598,121,"Passo","","Toyota","Passo",NULL
+1599,121,"Picnic","","Toyota","Picnic",NULL
+1600,121,"Platz","","Toyota","Platz",NULL
+1601,121,"Porte","","Toyota","Porte",NULL
+1602,121,"Premio","","Toyota","Premio",NULL
+1603,121,"Previa","","Toyota","Previa",NULL
+1604,121,"Prius","","Toyota","Prius",NULL
+1605,121,"Probox","","Toyota","Probox",NULL
+1606,121,"Progres","","Toyota","Progres",NULL
+1607,121,"Pronard","","Toyota","Pronard",NULL
+1608,121,"Ractis","","Toyota","Ractis",NULL
+1609,121,"Raum","","Toyota","Raum",NULL
+1610,121,"Rav 4","","Toyota","Rav 4",NULL
+1611,121,"Regius","","Toyota","Regius",NULL
+1612,121,"Regius ACE","","Toyota","Regius ACE",NULL
+1613,121,"Rush","","Toyota","Rush",NULL
+1614,121,"Scepter","","Toyota","Scepter",NULL
+1615,121,"Scion","","Toyota","Scion",NULL
+1616,121,"Sequoia","","Toyota","Sequoia",NULL
+1617,121,"Sera","","Toyota","Sera",NULL
+1618,121,"Sienna","","Toyota","Sienna",NULL
+1619,121,"Sienta","","Toyota","Sienta",NULL
+1620,121,"Soarer","","Toyota","Soarer",NULL
+1621,121,"Solara","","Toyota","Solara",NULL
+1622,121,"Sparky","","Toyota","Sparky",NULL
+1623,121,"Sprinter","","Toyota","Sprinter",NULL
+1624,121,"Sprinter Marino","","Toyota","Sprinter Marino",NULL
+1625,121,"Starlet","","Toyota","Starlet",NULL
+1626,121,"Succeed","","Toyota","Succeed",NULL
+1627,121,"Supra","","Toyota","Supra",NULL
+1628,121,"Tacoma","","Toyota","Tacoma",NULL
+1629,121,"Tercel","","Toyota","Tercel",NULL
+1630,121,"Town Ace","","Toyota","Town Ace",NULL
+1631,121,"Tundra","","Toyota","Tundra",NULL
+1632,121,"Verossa","","Toyota","Verossa",NULL
+1633,121,"Vios","","Toyota","Vios",NULL
+1634,121,"Vista","","Toyota","Vista",NULL
+1635,121,"Vitz","","Toyota","Vitz",NULL
+1636,121,"Voltz","","Toyota","Voltz",NULL
+1637,121,"Voxy","","Toyota","Voxy",NULL
+1638,121,"Will Cypha","","Toyota","Will Cypha",NULL
+1639,121,"Will VS","","Toyota","Will VS",NULL
+1640,121,"Windom","","Toyota","Windom",NULL
+1641,121,"Wish","","Toyota","Wish",NULL
+1642,121,"Yaris","","Toyota","Yaris",NULL
+1643,121,"Yaris Verso","","Toyota","Yaris Verso",NULL
+1644,121,"bB","","Toyota","bB",NULL
+1646,122,"600","","Trabant","600",NULL
+1647,122,"601","","Trabant","601",NULL
+1648,123,"300","","Venturi","300",NULL
+1649,123,"400","","Venturi","400",NULL
+1650,123,"Fetish","","Venturi","Fetish",NULL
+1651,124,"Beetle","","Volkswagen","Beetle",NULL
+1652,124,"Bora","","Volkswagen","Bora",NULL
+1653,124,"Caddy","","Volkswagen","Caddy",NULL
+1654,124,"California","","Volkswagen","California",NULL
+1655,124,"Camper","","Volkswagen","Camper",NULL
+1656,124,"Caravelle","","Volkswagen","Caravelle",NULL
+1657,124,"Corrado","","Volkswagen","Corrado",NULL
+1658,124,"Country Buggy","","Volkswagen","Country Buggy",NULL
+1659,124,"Crafter","","Volkswagen","Crafter",NULL
+1660,124,"EOS","","Volkswagen","EOS",NULL
+1661,124,"EuroVan","","Volkswagen","EuroVan",NULL
+1662,124,"Fox","","Volkswagen","Fox",NULL
+1663,124,"Gol","","Volkswagen","Gol",NULL
+1664,124,"Golf","","Volkswagen","Golf",NULL
+1665,124,"Golf Plus","","Volkswagen","Golf Plus",NULL
+1666,124,"Iltis","","Volkswagen","Iltis",NULL
+1667,124,"Jetta","","Volkswagen","Jetta",NULL
+1668,124,"Kaefer","","Volkswagen","Kaefer",NULL
+1669,124,"LT","","Volkswagen","LT",NULL
+1670,124,"Lupo","","Volkswagen","Lupo",NULL
+1671,124,"Multivan","","Volkswagen","Multivan",NULL
+1672,124,"NEW Beetle","","Volkswagen","NEW Beetle",NULL
+1673,124,"Parati","","Volkswagen","Parati",NULL
+1674,124,"Passat","","Volkswagen","Passat",NULL
+1675,124,"Passat CC","","Volkswagen","Passat CC",NULL
+1676,124,"Phaeton","","Volkswagen","Phaeton",NULL
+1677,124,"Pointer","","Volkswagen","Pointer",NULL
+1678,124,"Polo","","Volkswagen","Polo",NULL
+1679,124,"Quantum","","Volkswagen","Quantum",NULL
+1680,124,"Santana","","Volkswagen","Santana",NULL
+1681,124,"Scirocco","","Volkswagen","Scirocco",NULL
+1682,124,"Sharan","","Volkswagen","Sharan",NULL
+1683,124,"Taro","","Volkswagen","Taro",NULL
+1684,124,"Tiguan","","Volkswagen","Tiguan",NULL
+1685,124,"Touareg","","Volkswagen","Touareg",NULL
+1686,124,"Touran","","Volkswagen","Touran",NULL
+1687,124,"Transporter","","Volkswagen","Transporter",NULL
+1688,124,"Vento","","Volkswagen","Vento",NULL
+1689,125,"140","","Volvo","140",NULL
+1690,125,"164","","Volvo","164",NULL
+1691,125,"240","","Volvo","240",NULL
+1692,125,"260","","Volvo","260",NULL
+1693,125,"340","","Volvo","340",NULL
+1694,125,"360","","Volvo","360",NULL
+1695,125,"440","","Volvo","440",NULL
+1696,125,"460","","Volvo","460",NULL
+1697,125,"480","","Volvo","480",NULL
+1698,125,"740","","Volvo","740",NULL
+1699,125,"744","","Volvo","744",NULL
+1700,125,"745","","Volvo","745",NULL
+1701,125,"760","","Volvo","760",NULL
+1702,125,"780","","Volvo","780",NULL
+1703,125,"850","","Volvo","850",NULL
+1704,125,"940","","Volvo","940",NULL
+1705,125,"944","","Volvo","944",NULL
+1706,125,"945","","Volvo","945",NULL
+1707,125,"960","","Volvo","960",NULL
+1708,125,"C30","","Volvo","C30",NULL
+1709,125,"C70","","Volvo","C70",NULL
+1710,125,"S40","","Volvo","S40",NULL
+1711,125,"S60","","Volvo","S60",NULL
+1712,125,"S70","","Volvo","S70",NULL
+1713,125,"S80","","Volvo","S80",NULL
+1714,125,"S90","","Volvo","S90",NULL
+1715,125,"V40","","Volvo","V40",NULL
+1716,125,"V50","","Volvo","V50",NULL
+1717,125,"V70","","Volvo","V70",NULL
+1718,125,"V90","","Volvo","V90",NULL
+1719,125,"XC60","","Volvo","XC60",NULL
+1720,125,"XC70","","Volvo","XC70",NULL
+1721,125,"XC90","","Volvo","XC90",NULL
+1722,126,"Estina","","Vortex","Estina",NULL
+1723,127,"353","","Wartburg","353",NULL
+1724,128,"Roadster","","Wiesmann","Roadster",NULL
+1725,129,"Pickup X3","","Xin Kai","Pickup X3",NULL
+1726,129,"SR-V X3","","Xin Kai","SR-V X3",NULL
+1727,129,"SUV X3","","Xin Kai","SUV X3",NULL
+1728,130,"Dragon","","Yzk","Dragon",NULL
+1729,130,"Fine","","Yzk","Fine",NULL
+1730,130,"Flying","","Yzk","Flying",NULL
+1731,130,"Liebao","","Yzk","Liebao",NULL
+1732,131,"Grand Tiger","","ZX","Grand Tiger",NULL
+1733,131,"landmark","","ZX","landmark",NULL
+1734,132,"1111","","¬¿«","1111",NULL
+1735,132,"1922","","¬¿«","1922",NULL
+1736,132,"2101","","¬¿«","2101",NULL
+1737,132,"2102","","¬¿«","2102",NULL
+1738,132,"2103","","¬¿«","2103",NULL
+1739,132,"2104","","¬¿«","2104",NULL
+1740,132,"2105","","¬¿«","2105",NULL
+1741,132,"2106","","¬¿«","2106",NULL
+1742,132,"2107","","¬¿«","2107",NULL
+1743,132,"2108","","¬¿«","2108",NULL
+1744,132,"2109","","¬¿«","2109",NULL
+1745,132,"21099","","¬¿«","21099",NULL
+1746,132,"2110","","¬¿«","2110",NULL
+1747,132,"2111","","¬¿«","2111",NULL
+1748,132,"2112","","¬¿«","2112",NULL
+1749,132,"2113","","¬¿«","2113",NULL
+1750,132,"2114","","¬¿«","2114",NULL
+1751,132,"2115","","¬¿«","2115",NULL
+1752,132,"2120","","¬¿«","2120",NULL
+1753,132,"2121","","¬¿«","2121",NULL
+1754,132,"2123","","¬¿«","2123",NULL
+1755,132,"2129","","¬¿«","2129",NULL
+1756,132,"2131","","¬¿«","2131",NULL
+1757,132,"2328","","¬¿«","2328",NULL
+1758,132,"2329","","¬¿«","2329",NULL
+1759,132,"2345","","¬¿«","2345",NULL
+1760,132,"2346","","¬¿«","2346",NULL
+1761,132,"2347","","¬¿«","2347",NULL
+1762,132,"2364","","¬¿«","2364",NULL
+1763,132,"2723","","¬¿«","2723",NULL
+1764,132,"Kalina","","¬¿«","Kalina",NULL
+1765,132,"Priora","","¬¿«","Priora",NULL
+1766,133,"¿‚ÚÓÍ‡Ï-2160","","¬ÂÎÚ‡","¿‚ÚÓÍ‡Ï-2160",NULL
+1767,134,"12 / «»Ã","","√¿«","12 / «»Ã",NULL
+1768,134,"13","","√¿«","13",NULL
+1769,134,"14","","√¿«","14",NULL
+1770,134,"17310","","√¿«","17310",NULL
+1771,134,"21","","√¿«","21",NULL
+1772,134,"22","","√¿«","22",NULL
+1773,134,"2217","","√¿«","2217",NULL
+1774,134,"22171","","√¿«","22171",NULL
+1775,134,"2308","","√¿«","2308",NULL
+1776,134,"2310","","√¿«","2310",NULL
+1777,134,"2330","","√¿«","2330",NULL
+1778,134,"24","","√¿«","24",NULL
+1779,134,"24-10","","√¿«","24-10",NULL
+1780,134,"2402","","√¿«","2402",NULL
+1781,134,"2705","","√¿«","2705",NULL
+1782,134,"2752","","√¿«","2752",NULL
+1783,134,"3102","","√¿«","3102",NULL
+1784,134,"3103","","√¿«","3103",NULL
+1785,134,"3104","","√¿«","3104",NULL
+1786,134,"3105","","√¿«","3105",NULL
+1787,134,"3106","","√¿«","3106",NULL
+1788,134,"3110","","√¿«","3110",NULL
+1789,134,"31105","","√¿«","31105",NULL
+1790,134,"3111","","√¿«","3111",NULL
+1791,134,"3120","","√¿«","3120",NULL
+1792,134,"3129","","√¿«","3129",NULL
+1793,134,"3221","","√¿«","3221",NULL
+1794,134,"3234","","√¿«","3234",NULL
+1795,134,"3302","","√¿«","3302",NULL
+1796,134,"3307","","√¿«","3307",NULL
+1797,134,"3308","","√¿«","3308",NULL
+1798,134,"3309","","√¿«","3309",NULL
+1799,134,"3310","","√¿«","3310",NULL
+1800,134,"52/53","","√¿«","52/53",NULL
+1801,134,"66","","√¿«","66",NULL
+1802,134,"67","","√¿«","67",NULL
+1803,134,"69","","√¿«","69",NULL
+1804,134,"M-1","","√¿«","M-1",NULL
+1805,134,"M-20","","√¿«","M-20",NULL
+1806,134,"Volga Siber","","√¿«","Volga Siber",NULL
+1807,135,"762","","≈–¿«","762",NULL
+1808,136,"1111","","—Â¿«","1111",NULL
+1809,137,"1111",""," ¿Ã¿«","1111",NULL
+1810,137,"43",""," ¿Ã¿«","43",NULL
+1811,137,"53",""," ¿Ã¿«","53",NULL
+1812,137,"54",""," ¿Ã¿«","54",NULL
+1813,137,"55",""," ¿Ã¿«","55",NULL
+1814,137,"65",""," ¿Ã¿«","65",NULL
+1815,138,"965","","«¿«","965",NULL
+1816,138,"966","","«¿«","966",NULL
+1817,138,"968","","«¿«","968",NULL
+1818,138,"968Ã","","«¿«","968Ã",NULL
+1819,138,"Sens","","«¿«","Sens",NULL
+1820,138,"“‡‚Ëˇ","","«¿«","“‡‚Ëˇ",NULL
+1821,139,"114","","«»À","114",NULL
+1822,139,"115","","«»À","115",NULL
+1823,139,"117","","«»À","117",NULL
+1824,139,"130","","«»À","130",NULL
+1825,139,"4104","","«»À","4104",NULL
+1826,139,"41047","","«»À","41047",NULL
+1827,139,"4741","","«»À","4741",NULL
+1828,139,"5301","","«»À","5301",NULL
+1829,140,"2117","","»∆","2117",NULL
+1830,140,"2125","","»∆","2125",NULL
+1831,140,"2126 / Œ‰‡","","»∆","2126 / Œ‰‡",NULL
+1832,140,"2715","","»∆","2715",NULL
+1833,140,"2717","","»∆","2717",NULL
+1834,140,"412","","»∆","412",NULL
+1835,141,"1302","","À”¿«","1302",NULL
+1836,141,"967","","À”¿«","967",NULL
+1837,141,"967Ã","","À”¿«","967Ã",NULL
+1838,141,"969","","À”¿«","969",NULL
+1839,141,"969¿","","À”¿«","969¿",NULL
+1840,141,"969¡","","À”¿«","969¡",NULL
+1841,141,"969Ã","","À”¿«","969Ã",NULL
+1842,142,"2125","","ÃÓÒÍ‚Ë˜","2125",NULL
+1843,142,"2135","","ÃÓÒÍ‚Ë˜","2135",NULL
+1844,142,"2137","","ÃÓÒÍ‚Ë˜","2137",NULL
+1845,142,"2138","","ÃÓÒÍ‚Ë˜","2138",NULL
+1846,142,"2140","","ÃÓÒÍ‚Ë˜","2140",NULL
+1847,142,"2141","","ÃÓÒÍ‚Ë˜","2141",NULL
+1848,142,"2901","","ÃÓÒÍ‚Ë˜","2901",NULL
+1849,142,"400","","ÃÓÒÍ‚Ë˜","400",NULL
+1850,142,"401","","ÃÓÒÍ‚Ë˜","401",NULL
+1851,142,"402","","ÃÓÒÍ‚Ë˜","402",NULL
+1852,142,"403","","ÃÓÒÍ‚Ë˜","403",NULL
+1853,142,"407","","ÃÓÒÍ‚Ë˜","407",NULL
+1854,142,"408","","ÃÓÒÍ‚Ë˜","408",NULL
+1855,142,"410","","ÃÓÒÍ‚Ë˜","410",NULL
+1856,142,"412","","ÃÓÒÍ‚Ë˜","412",NULL
+1857,142,"426","","ÃÓÒÍ‚Ë˜","426",NULL
+1858,142,"427","","ÃÓÒÍ‚Ë˜","427",NULL
+1859,142," ÌˇÁ¸ ¬Î‡‰ËÏË","","ÃÓÒÍ‚Ë˜"," ÌˇÁ¸ ¬Î‡‰ËÏË",NULL
+1860,142,"—‚ˇÚÓ„Ó","","ÃÓÒÍ‚Ë˜","—‚ˇÚÓ„Ó",NULL
+1861,142,"ﬁËÈ ƒÓÎ„ÓÛÍËÈ","","ÃÓÒÍ‚Ë˜","ﬁËÈ ƒÓÎ„ÓÛÍËÈ",NULL
+1862,143,"2206","","”¿«","2206",NULL
+1863,143,"2362","","”¿«","2362",NULL
+1864,143,"3150","","”¿«","3150",NULL
+1865,143,"3151","","”¿«","3151",NULL
+1866,143,"31512","","”¿«","31512",NULL
+1867,143,"31514","","”¿«","31514",NULL
+1868,143,"31519","","”¿«","31519",NULL
+1869,143,"Hunter / 315195","","”¿«","Hunter / 315195",NULL
+1870,143,"3153","","”¿«","3153",NULL
+1871,143,"3159","","”¿«","3159",NULL
+1872,143,"3160","","”¿«","3160",NULL
+1873,143,"3162","","”¿«","3162",NULL
+1874,143,"Patriot / 3163","","”¿«","Patriot / 3163",NULL
+1875,143,"3165","","”¿«","3165",NULL
+1876,143,"3303","","”¿«","3303",NULL
+1877,143,"3309","","”¿«","3309",NULL
+1878,143,"3741","","”¿«","3741",NULL
+1879,143,"3909","","”¿«","3909",NULL
+1880,143,"3962","","”¿«","3962",NULL
+1881,143,"459","","”¿«","459",NULL
+1882,143,"469","","”¿«","469",NULL
+1883,132,"21093","","¬¿«","21093",NULL
+1884,NULL,"Harley-Davidson","","","Harley-Davidson",NULL
+1885,96,"Fluence","","Renault","Fluence",""
+1886,124,"7 HC TRANSPORTER","","Volkswagen","7 HC TRANSPORTER",NULL
+1889,88,"230GE","","PUCH","230GE",NULL
+1891,143,"390995","","”¿«","390995",NULL
+1892,143,"23632","","”¿«","23632",NULL
+1893,10,"TT","","Audi","TT",NULL
+1894,NULL,"Ã¿«","","","Ã¿«",NULL
+1895,2267,"Maxus","","LVD","Maxus",NULL
+1896,NULL,"œ¿«","","","œ¿«",NULL
+1897,NULL,"NEW HOLLAND","","","NEW HOLLAND",NULL
+1898,NULL,"¿Ã”–","","","¿Ã”–",NULL
+1899,52,"ix35","","Hyundai","ix35",NULL
+1900,10,"A8L","","Audi","A8L",NULL
+1903,1884,"FLSTC","","Harley-Davidson","FLSTC",NULL
+1904,58,"FX","","Jaguar","FX",NULL
+1905,1884,"FAT BOY FLSTF/FLSTFI ","","Harley-Davidson","FAT BOY FLSTF/FLSTFI ",NULL
+1906,1884,"VR (VRSCA)","","Harley-Davidson","VR (VRSCA)",NULL
+1907,134,"√‡ÁÂÎ¸","","√¿«","√‡ÁÂÎ¸",NULL
+1911,NULL,"LYNX","","","LYNX",NULL
+1913,2271,"Ski-Doo Scandic WT 550 F ","","Bombardier","Ski-Doo Scandic WT 550 F ",NULL
+1920,64,"Range Rover Vogue","","Land Rover","Range Rover Vogue",NULL
+1922,1884,"FLHXI ","","Harley-Davidson","FLHXI ",NULL
+1924,NULL,"CrowLine","","","CrowLine",NULL
+1928,21,"Express G1","","Chevrolet","Express G1",NULL
+1930,121,"Land Cruiser 120","","Toyota","Land Cruiser 120",NULL
+1931,121,"Land Cruiser 100","","Toyota","Land Cruiser 100",NULL
+1933,21,"Express G1500 ","","Chevrolet","Express G1500 ",NULL
+1935,52,"SM","","Hyundai","SM",NULL
+1945,21,"Bel Air","","Chevrolet","Bel Air",NULL
+1948,134,"310290","","√¿«","310290",NULL
+1949,143,"220606 ","","”¿«","220606 ",NULL
+1951,49,"Sonata","","Honda","Sonata",NULL
+1955,132,"21060","","¬¿«","21060",NULL
+1958,143,"23602","","”¿«","23602",NULL
+1959,11,"730","","BMW","730",NULL
+1966,132,"21063 ","","¬¿«","21063 ",NULL
+1968,121,"Land Cruiser 76","","Toyota","Land Cruiser 76",NULL
+1969,143,"315148 ","","”¿«","315148 ",NULL
+1970,134,"233001 ","","√¿«","233001 ",NULL
+1976,79,"AMG SLS ","","Mercedes-Benz","AMG SLS ",NULL
+1980,11,"735 LI","","BMW","735 LI",NULL
+1984,143,"390902","","”¿«","390902",NULL
+1987,11,"750","","BMW","750",NULL
+1988,132,"21140","","¬¿«","21140",NULL
+1989,11,"740i","","BMW","740i",NULL
+1992,11,"530","","BMW","530",NULL
+1993,11,"745 Li","","BMW","745 Li",NULL
+1998,91,"4008","","Peugeot","4008",NULL
+2006,11,"550i","","BMW","550i",NULL
+2020,NULL,"Yamaha","","","Yamaha",NULL
+2034,94,"Panamera","","Porsche","Panamera",NULL
+2039,94,"911 Coupe","","Porsche","911 Coupe",NULL
+2047,132,"21011 ","","¬¿«","21011 ",NULL
+2048,16,"Special","","Buick","Special",NULL
+2049,124,"Touran","","Volkswagen","Touran",NULL
+2051,132,"11193 (¬¿«)","","¬¿«","11193 (¬¿«)",NULL
+2067,121,"Land Cruiser 200","","Toyota","Land Cruiser 200",NULL
+2070,58,"Daimler Sovereign","","Jaguar","Daimler Sovereign",NULL
+2072,64,"Freelander 2","","Land Rover","Freelander 2",NULL
+2073,11,"X1","","BMW","X1",NULL
+2094,3,"2DX","","","2DX",NULL
+2115,38,"Madena","","Ferrari","Madena",NULL
+2116,53,"FX 37","","Infiniti","FX 37",NULL
+2117,132,"21043","","¬¿«","21043",NULL
+2118,64,"Discovery 4","","Land Rover","Discovery 4",NULL
+2119,113,"SX4 Hatchback","","Suzuki","SX4 Hatchback",NULL
+2121,96,"Duster","","Renault","Duster",NULL
+2122,96,"Megane II CFE16 115 –3","","Renault","Megane II CFE16 115 –3",NULL
+2123,96,"Megane IIEX2CEA 110 3C","","Renault","Megane IIEX2CEA 110 3C",NULL
+2124,96,"Kangoo 4LT","","Renault","Kangoo 4LT",NULL
+2126,132,"21150","","¬¿«","21150",NULL
+2128,132,"21053","","¬¿«","21053",NULL
+2129,143,"39099","","”¿«","39099",NULL
+2130,79,"Actros","","Mercedes-Benz","Actros",NULL
+2132,132,"21214","","¬¿«","21214",NULL
+2134,143,"390945","","”¿«","390945",NULL
+2139,61,"Soul","","Kia","Soul",NULL
+2141,11,"325i Xdrive","","BMW","325i Xdrive",NULL
+2142,85,"Primera 2.0","","Nissan","Primera 2.0",NULL
+2144,134,"21–","","√¿«","21–",NULL
+2146,11,"745","","BMW","745",NULL
+2154,134,"33021","","√¿«","33021",NULL
+2156,121,"Toyoace","","Toyota","Toyoace",NULL
+2158,113,"Grand Vitara XL","","Suzuki","Grand Vitara XL",NULL
+2159,53,"M37","","Infiniti","M37",NULL
+2160,17,"GMT926","","Cadillac","GMT926",NULL
+2167,11,"650i","","BMW","650i",NULL
+2168,52,"Solaris","","Hyundai","Solaris",NULL
+2170,64,"Discovery 3","","Land Rover","Discovery 3",NULL
+2172,10,"Q3","","Audi","Q3",NULL
+2174,64,"Range Rover Vogue","","Land Rover","Range Rover Vogue",NULL
+2175,38,"458 Spider","","Ferrari","458 Spider",NULL
+2178,143,"390944","","”¿«","390944",NULL
+2181,11,"116i","","BMW","116i",NULL
+2184,125,"CX90","","Volvo","CX90",NULL
+2185,132,"210540","","¬¿«","210540",NULL
+2186,11,"545","","BMW","545",NULL
+2187,11,"118i","","BMW","118i",NULL
+2193,NULL,"“‡„¿«","","","“‡„¿«",NULL
+2194,2193,"Tiger","","“‡„¿«","Tiger",NULL
+2195,21,"Family","","Chevrolet","Family",NULL
+2196,11,"525TD","","BMW","525TD",NULL
+2197,11,"850","","BMW","850",NULL
+2201,11,"520","","BMW","520",NULL
+2204,79,"W140","","Mercedes-Benz","W140",NULL
+2205,52,"ix55","","Hyundai","ix55",NULL
+2206,39,"Uno 55","","Fiat","Uno 55",NULL
+2210,NULL,"Willys","","","Willys",NULL
+2211,2210,"M170","","Willys","M170",NULL
+2213,17,"Escalade AWD","","Cadillac","Escalade AWD",NULL
+2215,11,"645","","BMW","645",NULL
+2216,94,"Cayman S","","Porsche","Cayman S",NULL
+2221,96,"Sandero","","Renault","Sandero",NULL
+2222,79,"100D","","Mercedes-Benz ","100D",NULL
+2227,85,"Juke","","Nissan","Juke",NULL
+2228,121,"Gala","","Toyota","Gala",NULL
+2229,142,"2134","","ÃÓÒÍ‚Ë˜","2134",NULL
+2230,132,"111740","","¬¿«","111740",NULL
+2231,121,"Land Cruiser 80","","Toyota","Land Cruiser 80",NULL
+2232,121,"Land Cruiser Cygnus","","Toyota","Land Cruiser Cygnus",NULL
+2233,56,"Forward","","Isuzu","Forward",NULL
+2234,85,"Fuga","","Nissan","Fuga",NULL
+2235,40,"Explorer Sport Trac","","Ford","Explorer Sport Trac",NULL
+2236,11,"316","","BMW","316",NULL
+2237,40,"Explorer Limited","","Ford","Explorer Limited",NULL
+2238,9,"Rapide","","Aston Martin","Rapide",NULL
+2239,121,"Integra","","Toyota","Integra",NULL
+2240,NULL,"Lada","","","Lada",NULL
+2241,2240,"Samara","","Lada","Samara",NULL
+2242,11,"328","","BMW","328",NULL
+2246,NULL,"Tesla","","","Tesla",NULL
+2247,2246,"S","","Tesla","S",NULL
+2250,52,"i20","","Hyundai","i20",NULL
+2251,87,"Mokka","","Opel","Mokka",NULL
+2252,11,"X3 xdrive20d","","BMW","X3 xdrive20d",NULL
+2253,53,"JX","","Infiniti","JX",NULL
+2255,61,"Venga","","Kia","Venga",NULL
+2258,121,"Land Cruiser 70","","Toyota","Land Cruiser 70",NULL
+2259,64,"Defender 110","","Land Rover","Defender 110",NULL
+2260,23,"DS4","","Citroen","DS4",NULL
+2262,39,"Lianca","","Fiat","Lianca",NULL
+2264,142,"21412","","ÃÓÒÍ‚Ë˜","21412",NULL
+2265,20,"A21","","Chery","A21",NULL
+2266,53,"M37X","","Infiniti","M37X",NULL
+2267,NULL,"LVD","","","LVD",NULL
+2269,1911,"YETI Pro V-800","","LYNX","YETI Pro V-800",NULL
+2270,NULL,"Ski-Doo","","","Ski-Doo",NULL
+2271,NULL,"Bombardier","","","Bombardier",NULL
+2272,2271,"XPDI","","Bombardier","XPDI",NULL
+2273,NULL,"Robinson","","","Robinson",NULL
+2274,77,"CX-5","","Mazda","CX-5",""
+2275,11,"335 I","","BMW","335 I",""
+2276,2240,"Priora","","Lada","Priora",""
+2277,10,"A7","","Audi","A7",""
+2278,11,"320","","BMW","320",""
+2279,82,"ASX","","Mitsubishi","ASX",""
+2280,108,"Yeti","","Skoda","Yeti",""
+2281,11,"420","","BMW","420",""
+2282,132,"21213","","¬¿«","21213",""
+2283,143,"22069","","”¿«","22069",""
+2284,52,"i40","","Hyundai","i40",""
+2286,10,"A1","","Audi","A1",""
+2287,112,"XV","","Subaru","XV",""
+2288,134,"Ã-21","","√¿«","Ã-21",""
+2289,91,"408","","Peugeot","408",""
+2290,67,"X60","","Lifan","X60",""
+2291,121,"Venza","","Toyota","Venza",""
+2292,91,"403","","Peugeot","403",""
+2293,79,"ML-ÍÎ‡ÒÒ","","Mercedes-Benz","ML-ÍÎ‡ÒÒ",""
+2294,121,"Land Cruiser 150","","Toyota","Land Cruiser 150",""
+2295,11,"525","","BMW","525",""
+2296,11,"535","","BMW","535",""
+2297,132,"Granta","","¬¿«","Granta",""
+2298,42,"Emgrand","","Geely","Emgrand",""
+2299,121,"Dyna","","Toyota","Dyna",""
+2300,64,"Range Rover Evoque","","Land Rover","Range Rover Evoque",""
+2301,138,"Chance","","«¿«","Chance",""
+2302,39,"Freemont","","Fiat","Freemont",""
+2303,96,"Kaptur","","Renault","Kaptur",""
+2304,52,"Creta","","Hyundai","Creta",""
+2305,91,"208","","Peugeot","208",""
+2306,108,"Kodiaq","","Skoda","Kodiaq",""
+2307,21,"Orlando","","Chevrolet","Orlando",""
+2308,124,"Amarok","","Volkswagen","Amarok",""
+2309,40,"EcoSport","","Ford","EcoSport",""
+2310,49,"Crosstour","","Honda","Crosstour",""
+2311,59,"Renegade","","Jeep","Renegade",""
+2312,85,"Lafesta","","Nissan","Lafesta",""
