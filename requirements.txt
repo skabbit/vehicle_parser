@@ -1,5 +1,5 @@
 pandas
 nltk==3.5
 symspellpy==6.7.0
-tqdm==4.52.0
+tqdm==4.62.2
 weblib==0.1.30

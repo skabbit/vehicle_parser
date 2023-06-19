@@ -27,6 +27,8 @@ class CarBrandManager():
         self.alt_names = dict(df.values.tolist())
    
     def get(self, id: int):
+        if id not in self.brands:
+            return None
         return CarBrand(d=self.brands[id])
 
 
@@ -38,6 +40,12 @@ class CarBrand():
             for key, value in d.items():
                 setattr(self, key, value)
         self.parent = d['parent_id']
+
+    def __str__(self):
+        if self.parent_name:
+            return '%s %s' % (self.parent_name, self.name)
+
+        return self.name
 
     @staticmethod
     def get_mark_name_pairs():
