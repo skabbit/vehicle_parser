@@ -2,25 +2,29 @@ import os
 import pathlib
 import pickle
 import re
+import json
 import pandas as pd
 from collections import defaultdict
-
-PATH_TO_FILE = pathlib.Path(os.path.dirname(os.path.realpath(__file__)))
-
 from symspellpy import SymSpell
 from symspellpy.editdistance import DistanceAlgorithm
 from nltk.corpus.reader import TaggedCorpusReader
 from nltk.tag import UnigramTagger
 from nltk.tokenize import LineTokenizer, WordPunctTokenizer
 from tqdm import tqdm
+from weblib.russian import slugify
 
+PATH_TO_FILE = pathlib.Path(os.path.dirname(os.path.realpath(__file__)))
 
 
 class CarBrandManager():
     def load(self):
-        df = pd.read_csv(PATH_TO_FILE / "vehicle-prod.csv", encoding="cp1251")
+        df = pd.read_csv(PATH_TO_FILE / "carbrand.csv")
         df = df.set_index('id')
         self.brands = df.to_dict(orient="index")
+        
+        df = pd.read_csv(PATH_TO_FILE / "alt_names.csv")
+        df = df[['name', 'carbrand_id']]
+        self.alt_names = dict(df.values.tolist())
    
     def get(self, id: int):
         return CarBrand(d=self.brands[id])
@@ -34,6 +38,78 @@ class CarBrand():
             for key, value in d.items():
                 setattr(self, key, value)
         self.parent = d['parent_id']
+
+    @staticmethod
+    def get_mark_name_pairs():
+        return CarBrand.objects.alt_names
+
+    @staticmethod
+    def slugify(name, parent_name=None):
+        original_name = name
+        name = name.replace("_", " ")
+
+        name_pairs = CarBrand.get_mark_name_pairs()
+        for a in name_pairs:
+            if slugify(name) == slugify(a):
+                name = name_pairs[a]
+                break
+
+        if parent_name:
+            name = name.replace("(%s)" % parent_name, "").strip()
+
+        name = re.sub(r"/[^\s]+/", r"", name)
+        name = name.replace("π", "pi")
+        name = name.replace("-Class", "")
+
+        name = slugify(name)
+        name = name.replace("-", "")
+        name = name.replace("series", "").replace("seriya", "").replace("serie", "")
+        name = name.replace("klasse", "").replace("klass", "")
+
+        if name.startswith("model"):
+            name = name[5:]
+
+        if parent_name:
+            # cut brand from model name
+            parent_name = CarBrand.slugify(parent_name)
+
+            if name.startswith(parent_name):
+                name = name[len(parent_name):]
+            if name.endswith(parent_name):
+                name = name[:-len(parent_name)]
+
+            if parent_name in ["vaz", "uaz"]:
+                if re.match(r"^\d+.+", name):
+                    name = re.sub(r"^(\d+)[^0-9].*", r"\1", name)
+
+            if parent_name == "gaz":
+                if len(name) > 5:
+                    name = re.sub(r"wolga$", r"", name)
+
+            if parent_name == "bmw":
+                name = re.sub(r"^(\d)er(\d+)", r"\2", name)
+                name = re.sub(r"^(\d)er", r"\1", name)
+                name = re.sub(r"^(\d)serii(\d+)", r"\2", name)
+                name = re.sub(r"^(\d)serii", r"\1", name)
+                name = name.replace("granturismo", "gt").replace("grancoupe", "gc")
+
+            if parent_name == "alfaromeo":
+                name = re.sub(r"^alfa", r"", name)
+
+            if parent_name == "mercedesbenz":
+                name = re.sub(r"^mercedes", r"", name)
+
+            if parent_name == "moskvich":
+                name = re.sub(r"^moskwitsch", r"", name)
+
+            if parent_name == "volkswagen":
+                name = re.sub(r"^vw", r"", name)
+
+        # in case of empty slug (eg: "Mini Mini" by Mini), just keep as it was
+        if not name:
+            name = slugify(original_name).replace("-", "")
+
+        return name    
 
 class LevenshteinSymSpell(SymSpell):
     def __init__(self,
@@ -263,7 +339,13 @@ class CarBrandCorrector:
 
 
 CarBrand.objects.load()
+corrector = CarBrandCorrector(path=PATH_TO_FILE / "config" / "stable", split_text=False)
 
 if __name__ == "__main__":
-    corrector = CarBrandCorrector(path=PATH_TO_FILE / "config" / "stable", split_text=False)
-    print(corrector.detect_model("ваз 2107"))
+    model_id = corrector.detect_model("ваз 2107")
+    print(model_id)
+    print(CarBrand.objects.get(id=model_id))
+
+    df = pd.read_csv("car_test.csv")
+    df['carbrand_id'] = df.apply(lambda row: corrector.detect_model(row['marka']), axis=1)
+    df
